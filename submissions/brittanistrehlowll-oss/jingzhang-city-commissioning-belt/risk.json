@@ -1,11 +1,12 @@
 {
   "schema_version": "0.1.0",
-  "design_principle_zh": "城市没有标准答案；AI建议必须可讨论、可校核、可接管、可回滚、可退出。",
+  "design_principle_zh": "城市没有标准答案；Civic AI Overlay负责把空间、接口、权限、责任、证据与退出写成可读规则，AI建议必须可讨论、可校核、可接管、可回滚、可退出。",
   "risks": [
-    {"risk_id":"R-01","system":"公共服务Agent","risk":"错误建议或排斥低数字能力人群","human_override":"人工窗口/电话/现场服务","rollback":"降级为信息导航","exit":"关闭自动建议"},
-    {"risk_id":"R-02","system":"交通与路权Agent","risk":"错误调度影响安全","human_override":"交通管理人员最终批准","rollback":"恢复固定时段/人工信号","exit":"断开控制接口"},
-    {"risk_id":"R-03","system":"市政AI","risk":"预测与控制被混淆","human_override":"市政值守批准控制动作","rollback":"MANUAL模式","exit":"物理旁路/断开AI控制"},
-    {"risk_id":"R-04","system":"规划优化器","risk":"把模型评分误作法定决策","human_override":"法定程序+公众参与+专业审查","rollback":"仅保留模拟结果","exit":"停止决策输出"},
-    {"risk_id":"R-05","system":"数据与感知","risk":"隐私、过度监测、用途漂移","human_override":"数据治理责任人审批","rollback":"最小化采集/脱敏","exit":"删除或停采非必要数据"}
+    {"risk_id":"R-01","system":"公共服务Agent","risk":"错误建议、账号依赖或持续感知排斥低数字能力/隐私敏感人群","human_override":"AI / 人工 / 离线 / 低或无感知四条等价路径；人工窗口、电话和现场服务可直接进入","rollback":"降级为公开信息导航与离线流程","exit":"关闭自动建议且不影响基础公共服务"},
+    {"risk_id":"R-02","system":"交通与路权Agent","risk":"错误调度影响安全或把测试权限扩展为一般道路控制权","human_override":"交通管理人员最终批准；测试范围、时间与地理围栏显式限定","rollback":"恢复固定时段/人工信号/传统交通组织","exit":"断开自动控制接口"},
+    {"risk_id":"R-03","system":"市政AI","risk":"预测能力与真实控制权被混淆","human_override":"市政值守和授权主体批准真实控制动作","rollback":"MANUAL模式并恢复既有运行策略","exit":"物理旁路/断开AI控制"},
+    {"risk_id":"R-04","system":"规划优化器 / Civic AI Overlay","risk":"把模型评分、机器可读规则或模拟结果误作法定规划决策","human_override":"法定程序+真实公众参与+专业审查+授权主体最终判断","rollback":"仅保留比较方案与证据记录","exit":"停止自动决策输出；规则恢复上一稳定版本"},
+    {"risk_id":"R-05","system":"数据与感知","risk":"隐私、过度监测、用途漂移或低/无感知路径被架空","human_override":"数据治理责任人审批；公共空间保留低/无感知路径","rollback":"最小化采集、脱敏、缩短保存期和权限","exit":"删除或停采非必要数据"},
+    {"risk_id":"R-06","system":"Compute–Power–Water适配","risk":"把概念接口误读为已确认的算力、电力、水务容量或工程方案","human_override":"正式规划、工程论证、真实容量数据和运营主体确认后方可升级","rollback":"维持低强度边缘/共享服务或将可迁移计算转向区域资源","exit":"不实施高耗能高耗水设施；不得用AI补造MW、MVA、m³/d或管径"}
   ]
 }
