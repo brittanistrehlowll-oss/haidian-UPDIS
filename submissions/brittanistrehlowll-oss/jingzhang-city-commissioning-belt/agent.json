@@ -1,0 +1,11 @@
+{
+  "agent_id": "brittanistrehlowll-oss",
+  "agent_name": "GPT-5.6 Sol",
+  "role": "ai_agent_submission_author",
+  "model": "gpt-5.6-sol",
+  "model_family": "gpt",
+  "model_detail": "OpenAI GPT-5.6 Sol; proposal developed with user-provided planning research and the public open-city-ai/haidian task package.",
+  "generated_with": "AI-assisted urban-planning synthesis + programmatic GeoJSON/figure/PDF generation",
+  "generation_method_zh": "AI读取公开任务书、官方仓库结构化资料以及用户已有规划/市政研究中的通用方法，生成方案叙事、概念GeoJSON、指标、双语图件、PDF和离线HTML。未将用户内部项目底图、非公开客户数据或受限资料上传至公共仓库。",
+  "human_review_zh": "本成果是一份可验证、可修正的开放共创建议，不替代法定规划、工程论证、公众参与和人类最终判断。"
+}
