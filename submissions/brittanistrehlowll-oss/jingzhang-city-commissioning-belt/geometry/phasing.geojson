@@ -1,1 +1,67 @@
-{"type":"FeatureCollection","name":"phasing","features":[{"type":"Feature","id":"PHASE-001","properties":{"id":"PHASE-001","layer":"PHASE","source_type":"agent_generated_design","confidence":"medium","geometry_role":"design_proposal","name_zh":"近期：规则、证据、影子运行","phase":1,"area_sqm_declared":4145970.725},"geometry":{"type":"Polygon","coordinates":[[[116.34070000000001,39.93899999999999],[116.33989166606412,39.968103687635235],[116.3550449694261,39.968188989207874],[116.3553,39.965],[116.3553,39.939],[116.34070000000001,39.93899999999999]]]}},{"type":"Feature","id":"PHASE-002","properties":{"id":"PHASE-002","layer":"PHASE","source_type":"agent_generated_design","confidence":"medium","geometry_role":"design_proposal","name_zh":"中期：测试场、边缘节点、有限真实负载","phase":2,"area_sqm_declared":3801720.759},"geometry":{"type":"Polygon","coordinates":[[[116.3533,39.989999999999995],[116.3550449694261,39.968188989207874],[116.33989166606412,39.968103687635235],[116.3397,39.97500000000001],[116.34113861172393,39.99730103000569],[116.35370378140554,39.99737177997888],[116.3533,39.989999999999995]]]}},{"type":"Feature","id":"PHASE-003","properties":{"id":"PHASE-003","layer":"PHASE","source_type":"agent_generated_design","confidence":"medium","geometry_role":"design_proposal","name_zh":"长期：经审批后的规模化运行与持续复验","phase":3,"area_sqm_declared":3465133.902},"geometry":{"type":"Polygon","coordinates":[[[116.35370378140554,39.99737177997888],[116.34113861172393,39.99730103000569],[116.34169999999999,40.006],[116.34270000000001,40.0265],[116.3553,40.0265],[116.35370378140554,39.99737177997888]]]}}]}
+{
+  "type": "FeatureCollection",
+  "name": "phasing",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "PHASE-001",
+      "properties": {
+        "id": "PHASE-001",
+        "layer": "PHASE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "name_zh": "NOW｜近期低门槛：规则、证据、影子运行与可逆微更新",
+        "name_en": "NOW | Low-threshold actions: rules, evidence, shadow operation and reversible micro-renewal",
+        "phase": 1,
+        "phase_code": "NOW",
+        "trigger_type": "available-now",
+        "implementation_note_zh": "依托公开或清权数据、低成本可逆空间行动和明确人工责任即可启动；不构成固定年份或政府投资承诺。",
+        "area_sqm_declared": 4145970.725
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[116.34070000000001,39.93899999999999],[116.33989166606412,39.968103687635235],[116.3550449694261,39.968188989207874],[116.3553,39.965],[116.3553,39.939],[116.34070000000001,39.93899999999999]]]}
+    },
+    {
+      "type": "Feature",
+      "id": "PHASE-002",
+      "properties": {
+        "id": "PHASE-002",
+        "layer": "PHASE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "name_zh": "NEXT｜下一阶段深化：测试场、边缘节点与有限真实负载",
+        "name_en": "NEXT | Next-stage pilots: testbeds, edge nodes and limited real-world load",
+        "phase": 2,
+        "phase_code": "NEXT",
+        "trigger_type": "pilot-ready",
+        "implementation_note_zh": "需专项设计、运营责任、风险边界和基础工程条件明确；形成可审计证据后方可扩大。",
+        "area_sqm_declared": 3801720.759
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[116.3533,39.989999999999995],[116.3550449694261,39.968188989207874],[116.33989166606412,39.968103687635235],[116.3397,39.97500000000001],[116.34113861172393,39.99730103000569],[116.35370378140554,39.99737177997888],[116.3533,39.989999999999995]]]}
+    },
+    {
+      "type": "Feature",
+      "id": "PHASE-003",
+      "properties": {
+        "id": "PHASE-003",
+        "layer": "PHASE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "name_zh": "CONDITION-BASED｜条件触发：正式规划、工程、容量与审批条件成熟后实施",
+        "name_en": "CONDITION-BASED | Triggered only after formal planning, engineering, capacity and approvals are confirmed",
+        "phase": 3,
+        "phase_code": "CONDITION-BASED",
+        "trigger_type": "formal-condition-required",
+        "implementation_note_zh": "高强度算力、大型能源水务改造、地下系统重大改造、真实控制型AI运行及重大拆建等，仅在正式规划、工程论证、真实容量、公共利益校核和部门审批成立后启动。",
+        "area_sqm_declared": 3465133.902
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[116.35370378140554,39.99737177997888],[116.34113861172393,39.99730103000569],[116.34169999999999,40.006],[116.34270000000001,40.0265],[116.3553,40.0265],[116.35370378140554,39.99737177997888]]]}
+    }
+  ],
+  "metadata": {
+    "phasing_logic": "NOW / NEXT / CONDITION-BASED",
+    "usage_note_zh": "分期表达为实施成熟度与触发条件，不对应固定建设年份，不构成政府实施承诺。"
+  }
+}
