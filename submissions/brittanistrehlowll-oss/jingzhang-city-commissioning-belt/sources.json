@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "sources": [
+    {"id":"SITE-PACKAGE","path":"brief/site-package/","source_type":"official_public","usage":"Project brief, enums, allowed design space, ranges, schemas and maintained public references."},
+    {"id":"SOURCE-REGISTRY","path":"data/source_registry.json","source_type":"repository_public_registry","usage":"Distinguishes formal-ready, background-only and provisional-only sources."},
+    {"id":"PROCESSED-FACT-PACK","path":"data/processed/agent_fact_pack.md","source_type":"repository_processed_reference","usage":"Navigation layer for scopes, tasks, source-use boundaries and missing data."},
+    {"id":"MISSING-DATA-CHECKLIST","path":"data/processed/missing_data_checklist.csv","source_type":"repository_processed_reference","usage":"Records official-data gaps that must remain assumptions rather than fabricated certainty."},
+    {"id":"BOUNDARY-SOURCE","path":"brief/site-package/geometry/provisional_boundaries.geojson","source_type":"agent_inferred_from_public_data","usage":"Provisional overall design boundary for intake generation only."},
+    {"id":"KEY-AREA-SOURCE","path":"brief/site-package/geometry/provisional_boundaries.geojson","source_type":"agent_inferred_from_public_data","usage":"Three provisional key-area polygons for intake design only."},
+    {"id":"OFFICIAL-ANNOUNCEMENT","url":"https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/tzgg/hd/202605/t20260509_4643047.html","source_type":"official_public","usage":"Official scope, purpose, key areas and design tasks."},
+    {"id":"AGENT-TASKBOOK","path":"brief/site-package/agent_taskbook.json","source_type":"user_provided_cleared","usage":"Agent open-call principles, positioning, six mandatory tasks, scenario/brand/operation requirements and claim boundaries."}
+  ]
+}
