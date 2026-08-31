@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "name": "landmarks",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LM-01",
+      "properties": {
+        "id": "LM-01",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "name_zh": "First Run Yard｜首发试运行场",
+        "name_en": "First Run Yard",
+        "landmark_role": "core_honor_node",
+        "core_landmark": true,
+        "location_basis": "conceptual centroid within current provisional design geometry",
+        "usage_note_zh": "概念公共荣誉节点，仅用于方案表达与机器可读索引；正式底图、权属和公共空间条件补齐后须重新校准落点。"
+      },
+      "geometry": {"type":"Point","coordinates":[116.347802,39.968732]}
+    },
+    {
+      "type": "Feature",
+      "id": "LM-02",
+      "properties": {
+        "id": "LM-02",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "name_zh": "Open Evidence Hall｜开放证据厅",
+        "name_en": "Open Evidence Hall",
+        "landmark_role": "core_honor_node",
+        "core_landmark": true,
+        "location_basis": "conceptual point within Beijing AI Origin Community provisional key area",
+        "usage_note_zh": "概念公共荣誉节点，仅用于方案表达与机器可读索引；正式底图、权属和公共空间条件补齐后须重新校准落点。"
+      },
+      "geometry": {"type":"Point","coordinates":[116.3475,39.9885]}
+    },
+    {
+      "type": "Feature",
+      "id": "LM-03",
+      "properties": {
+        "id": "LM-03",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "name_zh": "Civic Override Beacon｜公共接管灯塔",
+        "name_en": "Civic Override Beacon",
+        "landmark_role": "core_honor_node",
+        "core_landmark": true,
+        "location_basis": "conceptual point within Zhongzhiyuan provisional key area",
+        "usage_note_zh": "概念公共荣誉节点，仅用于方案表达与机器可读索引；正式底图、权属和公共空间条件补齐后须重新校准落点。"
+      },
+      "geometry": {"type":"Point","coordinates":[116.3485,40.01675]}
+    },
+    {
+      "type": "Feature",
+      "id": "LM-04",
+      "properties": {
+        "id": "LM-04",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "name_zh": "Commissioning Commons｜联调共享场",
+        "name_en": "Commissioning Commons",
+        "landmark_role": "support_commons",
+        "core_landmark": false,
+        "location_basis": "conceptual point within Dazhongsi provisional key area",
+        "usage_note_zh": "支撑型共享场，不列入三大核心公共荣誉节点；正式底图、权属和公共空间条件补齐后须重新校准落点。"
+      },
+      "geometry": {"type":"Point","coordinates":[116.3485,39.94692]}
+    }
+  ],
+  "metadata": {
+    "core_landmark_count": 3,
+    "support_commons_count": 1,
+    "coordinate_status": "conceptual_provisional",
+    "area_accounting_note": "Point features carry zero area and are not included in public_space_ratio calculations."
+  }
+}
