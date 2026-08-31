@@ -109,6 +109,8 @@ AI带来的便利不能以强迫居民注册商业账号、持续接受感知或
 
 ## 三层范围工作框架
 
+[depth:three_level_scope_framework]
+
 **43.6km²统筹研究范围｜CITY SYSTEM。**
 
 按照公告确定的城市级范围，研究AI科研、产业、人才、公共服务、算力能源与真实场景反馈如何形成区域闭环。该尺度关注功能协同、能力流和城市系统关系，使用公告文字面积和任务关系，不以临时 polygon 推定法定边界。 [source:OFFICIAL-ANNOUNCEMENT]
@@ -707,6 +709,8 @@ AI+医疗、教育、法律、生活、商业和交通作为垂直服务子卡�
 
 ## 用地、建筑规模与拆改留方案
 
+[depth:height_massing_character]
+
 用地模型覆盖当前提交边界，采用科研用地、公园绿地、商业服务业、社区服务设施等统一分类，服务：
 
 **研究 → 验证 → 日常生活 → 更新转化**
@@ -851,6 +855,8 @@ AI可以提高预测和调度能力，但：
 [metric:ai_landmark_count]
 
 ## 更新项目清单、实施政策与分期计划
+
+[depth:renewal_project_list] [depth:phasing_implementation]
 
 实施不采用虚假的固定年份承诺，而采用：
 

@@ -57,6 +57,8 @@ The six tasks are therefore different views of one system, not six disconnected 
 
 ## Three-Level Scope Framework
 
+[depth:three_level_scope_framework]
+
 **43.6 km2 coordinated research area - CITY SYSTEM.** The official text scale is used to study the closed loop among AI research, industry, talent, compute/energy, public services and real-scene feedback. The announced text area is not converted into a statutory polygon.
 
 **Approx. 11.4 km2 overall design area - CITY COMMISSIONING DISTRICT.** The Jing-Zhang Heritage Park and its surrounding urban fabric host a continuous public spine, east-west stitching nodes, AI-infrastructure interfaces, resilient municipal networks and renewal projects. The submitted provisional model recalculates to about 11.41 km2. [data:geometry/site_boundary.geojson#SITE-001] [metric:site_area_sqm]
@@ -161,6 +163,8 @@ Vertical service sub-scenarios include health navigation (not diagnosis), educat
 
 ## Land Use, Building Scale, and Retain-Renovate-Demolish Strategy
 
+[depth:height_massing_character]
+
 The land-use model covers the submitted boundary and supports the research-validation-daily-life-renewal loop. Green and public-space ratios are recomputed from submitted geometry. Building footprints are conceptual key-area blocks used to demonstrate retain/adapt, renovate/open, new testbed and temporary/reversible actions, not surveyed existing buildings. [metric:green_ratio] [metric:building_footprint_area_sqm]
 
 Approved FAR, height, setback, density, ownership and complete building surveys are unavailable, so `floor_area_ratio` and `building_height_control_m` remain unknown. Official information must replace constraints and baseline data before recalculating area, massing and project boundaries. [standard:MOHURD-CONTROL-DETAILED-PLANNING] [depth:development_intensity_controls]
@@ -210,6 +214,8 @@ The machine-readable layer uses `PUBLIC-LM-01`, `PUBLIC-LM-02` and `PUBLIC-LM-03
 `PUBLIC-LM-004` represents the supporting shared-space polygon and likewise does not represent an official parcel, redline or precise construction location. [data:geometry/public_space.geojson#PUBLIC-LM-004]
 
 ## Renewal Projects, Implementation Policy, and Phasing
+
+[depth:renewal_project_list] [depth:phasing_implementation]
 
 The implementation structure is **NOW / NEXT / CONDITION-BASED**, not a fabricated calendar or investment commitment.
 
