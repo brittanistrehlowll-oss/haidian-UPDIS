@@ -6,17 +6,23 @@ proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_of: "proposal.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "A city has no single standard answer. The Jing-Zhang City Commissioning Belt keeps real urban design as the main body, uses a Civic AI Overlay to define new AI-era regulatory-planning objects and permissions, and treats the Compute-Power-Water nexus as professional infrastructure support across three key-area validation environments."
+summary: "The Jing-Zhang City Commissioning Belt uses the Jing-Zhang public spine and three key areas as its urban-design body, uses a Civic AI Overlay to define AI-era planning objects, resource interfaces and operating rules, and uses Compute-Power-Water to move from technical validity to civic validity to planning validity through C0-C6 and a City Evidence Ledger."
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability", "ai-health-service-navigation", "robot-delivery-low-speed", "ai-cultural-guide", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v0.5-formal"
+iteration: "v0.6-formal"
 ---
 
 # JING-ZHANG CITY COMMISSIONING BELT
 ## A CIVIC AI OVERLAY FOR THE AI-NATIVE CITY
 ### Urban Planning and Real-World Innovation for the AI Era
 
-**One-sentence proposal.** A century ago, Jing-Zhang railway engineering relied on surveying, standards, trial operation and verification to establish a dependable physical connection. Today AI is changing how cities produce, live and operate. This proposal does not carve out a separate “technology land” for AI. It introduces a **Civic AI Overlay** above conventional planning so that compute interfaces, operating permissions, human alternatives, data/model versions, re-test triggers and exit conditions can be expressed by planning and tested in Zhongzhiyuan, Beijing AI Origin Community and Dazhongsi.
+**One-sentence proposal.**
+
+**The Jing-Zhang City Commissioning Belt is not a technology-display corridor; it is a city mechanism that moves AI from technical validity to civic validity and then to planning validity.** A century ago, Jing-Zhang railway engineering used surveying, standards, trial operation and verification to establish a dependable physical connection. Today AI is entering transport, municipal systems, public services, community life and urban renewal, so cities need rules for how new capabilities enter real operation. This proposal does not carve out a separate “technology land” for AI. It introduces a **Civic AI Overlay** above existing planning so that AI-related spatial objects, resource interfaces, operating permissions, responsible parties, human alternatives, data/model versions, re-test triggers and exit conditions can be expressed in planning.
+
+**Zhongzhiyuan tests whether a capability can work → AI Origin tests whether it is worth using and who may opt out → Dazhongsi translates mature evidence into renewal and planning rules.** Compute / Power / Water captures the key resource relationships, while C0-C6 and the City Evidence Ledger provide the commissioning and evidence method.
+
+**AI should not merely be displayed; it should be tested. It should not take over the city; it should receive only auditable, bounded authority.**
 
 All spatial moves are conceptual open-call proposals. The package uses the repository-maintained `provisional_rough` geometry, not an official redline. Exact official polygons, statutory controls, ownership, heritage controls and engineering data must trigger recalculation and professional confirmation. [source:BOUNDARY-SOURCE] [standard:PROJECT-OFFICIAL-ANNOUNCEMENT]
 
@@ -32,7 +38,7 @@ There is no single standard answer for a life, and even less for a city. The mea
 
 Formal task evidence comes from the organizer announcement, repository design brief, agent taskbook, source registry and provisional geometry. The methodology also distills prior work on municipal infrastructure, resilience, AIDC commissioning, AI-assisted regulatory planning, urban renewal and underground-space coordination. No internal client base map, non-public metric or restricted project material is uploaded; only general methods are transferred. [source:OFFICIAL-ANNOUNCEMENT] [source:AGENT-TASKBOOK] [source:SOURCE-REGISTRY]
 
-Three professional principles structure the proposal. First, **AI creates new regulatory-planning objects**: edge-compute interfaces, flexible-energy interfaces, robot/logistics interfaces, sensing boundaries, operating permissions, human takeover and exit conditions cannot remain operational footnotes. Second, **AI infrastructure in a central-city district must be spatially matched rather than assuming a new large data centre**; the proposal therefore narrows its infrastructure innovation to Compute, Power and Water. Third, **public interest must become spatially testable** through AI, human, offline and low/no-sensing service paths. The hierarchy is therefore: **real urban design + Civic AI Overlay + C/P/W professional support + C0-C6 operating method**. [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [depth:existing_conditions_diagnosis]
+The proposal has four explicit layers: **urban-design body** (public spine, three key areas and the Three Zones-Two Wings); **Civic AI Overlay** as the first planning innovation; **Compute Matching / Compute-Power / Compute-Water** as professional support; and **C0-C6 + City Evidence Ledger** as the operating and evidence method. Three principles govern the translation: AI creates new planning objects; central-city AI infrastructure requires resource matching rather than an assumed large data centre; and public interest must become spatially testable through AI, human, offline and low/no-sensing paths. [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [depth:existing_conditions_diagnosis]
 
 ## Mandatory Task Coverage Index | agent.1-agent.6
 
@@ -94,17 +100,21 @@ Communications, underground municipal systems and transport/logistics remain ord
 
 ### 4. Commissioning and dual-track fail-safe
 
-City Commissioning does not mean keeping the city in permanent experimentation. It institutionalizes evidence, permission, human takeover and exit before and after real operation. C0-C6 is the operating method: evidence baseline → simulation → rule check → shadow/dummy load → limited real load → human-supervised operation → re-test/rollback/exit.
+City Commissioning does not mean keeping the city in permanent experimentation. It institutionalizes evidence, permission, human takeover and exit before and after real operation. C0-C6 is the operating method: **evidence baseline → simulation → rule check → shadow/dummy load → limited real load → human-supervised operation → re-test/rollback/exit**. Passing a test produces evidence for a possible increase in permission; it is not a city operating permit by itself.
 
 The external “dual-track” suggestion is retained only as a **decoupling principle between the AI enhancement layer and the conventional city substrate**. AI failure should trigger designed DEGRADED / MANUAL / EXIT paths, but this proposal does not claim “zero impact under total outage” or “millisecond switching”; real switch times and resilience levels require engineering design and operational drills.
 
-### 5. World-class AI ecosystem: validation capability rather than simple clustering
+### 5. City Evidence Ledger: the evidence interface
+
+The **City Evidence Ledger** connects the Civic AI Overlay to C0-C6. Each project should record its spatial scope, operator, responsible human, data source, model and version, risk class, permission, commissioning gate, test evidence, failure events, human intervention, approval, re-test trigger, rollback, exit and public summary. The ledger is not proposed as another complex platform. Its purpose is to make the current status and permission of an AI system traceable, record failures and human interventions, and let residents distinguish submission, testing, piloting, operation and exit.
+
+### 6. World-class AI ecosystem: validation capability rather than simple clustering
 
 The scarce capability is a real-city loop: **Research → Test → Limited Deployment → Daily Use → Evidence → Rule Update → Re-test**. Zhongzhiyuan produces test evidence and interface issues, AI Origin provides lived feedback, Dazhongsi translates evidence into renewal/operating rules, the Zhongguancun wing connects research/IP/capital/professional services, and the Xiaoyue River wing supplies ecological, community, municipal and public-service feedback. [metric:ecosystem_case_count]
 
 Seven international references remain mechanism-level comparisons only: EU CitCom.ai; Singapore Punggol Digital District; Helsinki / Forum Virium Living Labs; Paris-Saclay DataIA; Toronto Vector Institute; London Knowledge Quarter; and limited-scope regulatory sandbox practices. No partnership, certification or policy copying is claimed.
 
-### 6. Brand and communication
+### 7. Brand and communication
 
 The name remains **JING-ZHANG CITY COMMISSIONING BELT**. The visual grammar uses overlay / interface / status / evidence rather than literal railway shapes. Railway engineering history remains a cultural background of surveying, trial operation, verification and real service, not a compulsory formal motif. **PROVE BEFORE SCALE** and **HUMAN OVERRIDE BY DESIGN** remain operating principles.
 
