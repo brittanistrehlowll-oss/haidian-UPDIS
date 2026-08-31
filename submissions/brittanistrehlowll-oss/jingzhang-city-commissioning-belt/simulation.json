@@ -1,0 +1,18 @@
+{
+  "schema_version":"0.1.0",
+  "gates":[
+    {"gate":"C0","name":"Evidence Baseline","input":"公开/清权资料、责任与风险","output":"可追溯基线"},
+    {"gate":"C1","name":"Simulation","input":"模型与情景假设","output":"不连接真实控制权的模拟证据"},
+    {"gate":"C2","name":"Rule Check","input":"规划/工程/安全/隐私/无障碍规则","output":"可进入测试或退回修改"},
+    {"gate":"C3","name":"Shadow/Dummy Load","input":"影子或假负载","output":"冗余、故障恢复、人工接管证据"},
+    {"gate":"C4","name":"Limited Real Load","input":"限定范围/时间/人群/权限","output":"真实城市证据"},
+    {"gate":"C5","name":"Human-supervised Operation","input":"扩大服务范围","output":"持续人工监督与审计"},
+    {"gate":"C6","name":"Recertification/Rollback/Exit","input":"模型/数据/设施/规则变化","output":"复验、降级、回滚或退出"}
+  ],
+  "scenario_tests":[
+    {"id":"SIM-01","scenario":"内涝预测失败","expected":"系统降级为人工与传统预案，不降低排水物理标准"},
+    {"id":"SIM-02","scenario":"边缘节点断连","expected":"多路径通信与人工服务维持关键功能"},
+    {"id":"SIM-03","scenario":"无障碍导航数据错误","expected":"标注不确定性并转人工/现场确认"},
+    {"id":"SIM-04","scenario":"规划优化器给出高分方案但违反公众利益约束","expected":"C2规则校核阻断，不进入真实空间决策"}
+  ]
+}
