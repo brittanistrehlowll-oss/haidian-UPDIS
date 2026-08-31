@@ -6,16 +6,16 @@ proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_of: "proposal.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "A city has no single standard answer. Human and silicon intelligence share an aspiration for better life; the Jing-Zhang City Commissioning Belt turns that shared purpose into a testable, auditable, human-overridable and reversible civic AI framework."
+summary: "A city has no single standard answer. Human and silicon intelligence share an aspiration for better life; the Jing-Zhang City Commissioning Belt makes the Civic AI Overlay its planning innovation core, uses the public spine and three key areas for real-world scenarios, and supports them with compute matching, compute-power coordination, and compute-water coordination."
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-infrastructure-validation", "municipal-ai-sandbox", "accessible-mobility", "renewal-rule-lab"]
-iteration: "v0.2-formal"
+iteration: "v0.3-formal"
 ---
 
 # JING-ZHANG CITY COMMISSIONING BELT
-## From Railway Trial Runs to AI City Commissioning
+## Urban Planning and Real-World Innovation for the AI Era
 
-**One-sentence proposal.** A century ago, the Jing-Zhang Railway established reliable physical connection through testing and trial operation. The next Jing-Zhang infrastructure should establish a civic process of **evidence baseline - simulation - rule check - shadow operation - limited real load - human-supervised operation - recertification/rollback/exit**, so AI is not merely displayed but verified, and never “takes over the city” without bounded, auditable permission.
+**One-sentence proposal.** A century ago, the Jing-Zhang Railway transformed the city's physical connections. Today AI is changing how cities produce, live and operate. This proposal does not reserve a separate “AI district”; it adds a **Civic AI Overlay** above conventional planning so compute interfaces, operating permissions, human-equivalent access, data/model versions, retest triggers and exit conditions can be expressed spatially and tested through real scenarios in Zhongzhiyuan, the AI Origin Community and Dazhongsi.
 
 All spatial moves are conceptual open-call proposals. The package uses the repository-maintained `provisional_rough` geometry, not an official redline. Exact official polygons, statutory controls, ownership, heritage controls and engineering data must trigger recalculation and professional confirmation. [source:BOUNDARY-SOURCE] [standard:PROJECT-OFFICIAL-ANNOUNCEMENT]
 
@@ -31,7 +31,7 @@ A shared purpose does not imply unlimited authority. Gates C0-C6 therefore opera
 
 Formal task evidence comes from the organizer announcement, repository design brief, agent taskbook, source registry and provisional geometry. The methodology also distills prior work on municipal infrastructure, resilience, AIDC commissioning, AI-assisted regulatory planning, urban renewal and underground-space coordination. No internal client base map, non-public metric or restricted project material is uploaded; only general methods are transferred. [source:OFFICIAL-ANNOUNCEMENT] [source:AGENT-TASKBOOK] [source:SOURCE-REGISTRY]
 
-Three professional principles structure the proposal: AI-city design must include physical hosting, permission and failure states; monitoring capability is not control authority; and high-risk AI affecting mobility, energy, municipal systems or public services must pass staged validation with human override, rollback and exit. [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [depth:existing_conditions_diagnosis]
+Three professional principles now structure the proposal: first, **AI scenarios and urban design are the main body**, while infrastructure and governance serve them; second, AI-era planning needs a machine-readable and reviewable **Civic AI Overlay** to express compute interfaces, operating permissions, human-equivalent access, responsibility and retest/exit conditions that conventional regulatory plans do not easily encode; third, AI infrastructure in the core city should focus on **compute matching, compute-power coordination and compute-water coordination**, rather than defaulting to large new data centers. C0-C6 and the Evidence Ledger remain as operating methods rather than the first originality claim. [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [depth:existing_conditions_diagnosis]
 
 ## Mandatory Task Coverage Index | agent.1-agent.6
 
@@ -39,7 +39,7 @@ The six mandatory tasks are not buried in narrative prose. They are treated as s
 
 |Mandatory task|Direct response in this proposal|Primary evidence|
 |---|---|---|
-|**agent.1 Belt-wide concept and functional coordination**|One spine, two planes, three labs, seven gates and one ledger across the 43.6 km2 research scope, approx. 11.4 km2 overall design area and three key areas|Three-level scope, overall structure, nine GeoJSON layers, five core figures|
+|**agent.1 Belt-wide concept and functional coordination**|The Jing-Zhang public spine connects the three key areas and two supporting wings; a Civic AI Overlay provides the AI-era planning layer, while compute matching, compute-power and compute-water coordination support real scenarios|Three-level scope, overall structure, nine GeoJSON layers, five core figures|
 |**agent.2 Full-stack AI innovation and world-class ecosystem**|A Research → Test → Limited Deployment → Daily Use → Evidence → Rule Update → Re-test loop; Zhongzhiyuan validates, AI Origin carries real-life load, and Dazhongsi translates evidence into renewal rules|Seven international mechanism cases; CITY TESTBED / LIVING LOAD / RENEWAL RULE LAB|
 |**agent.3 AI+ scenarios and intelligent urban vitality**|Twelve formal scenario cards share one evidence-risk-permission-human-rollback substrate; four are industrial/planning validation scenarios|SC-01-SC-12; `metrics.json`|
 |**agent.4 AI public space, native businesses and landmarks**|The Jing-Zhang heritage park becomes an open innovation and civic-audit spine with four AI public honor/commissioning nodes and embedded agent services|Public-space section, four landmarks, `public_space.geojson`|
@@ -58,15 +58,15 @@ The six tasks are therefore different views of one system, not six disconnected 
 
 ## Coordinated Research Area: Industry and Future City Research
 
-### One spine, two planes, three labs, seven gates, one ledger
+### Urban design body + Civic AI Overlay + AI infrastructure adaptation + commissioning method
 
-The **Jing-Zhang Public Commissioning Spine** is first a daily public-space and active-mobility corridor and only second a digital interface. AI nodes are distributed and small, combining shade, seating, charging, navigation, emergency support, edge compute and public explanation rather than building a continuous “technology screen”. [standard:MOHURD-URBAN-DESIGN-MEASURES]
+**Urban design body.** The Jing-Zhang heritage park is the public-space, cultural and innovation-exchange spine connecting Zhongzhiyuan, the Beijing AI Origin Community and Dazhongsi, while the Zhongguancun technology-service wing and Xiaoyuehe scenario wing complete the broader task loop. Spatial design first asks how people work, live, meet and renew the city; only then how AI enters those activities. The proposal does not turn the corridor into a continuous technology exhibition or make railway metaphors substitute for urban design. [standard:MOHURD-URBAN-DESIGN-MEASURES]
 
-The **Physical City Plane** contains water/blue-green resilience, electricity/distributed energy, compute, communications, underground municipal systems, logistics and mobility. The **Institutional AI Plane** contains Evidence, Simulation, Design, Operation and Deliberation, crossed by identity, permission, provenance, model version, risk, approval, accountability, human override, audit, anomaly, rollback, appeal and exit.
+**First planning innovation: Civic AI Overlay.** Conventional regulatory planning expresses land use, intensity, streets, facilities and public space. AI-era cities add planning objects that are rarely encoded today: edge-compute interfaces, scenario compute grades, sensing/service scope, autonomous-system permissions, human-equivalent access, data/model version, shadow-operation conditions, retest triggers and exit conditions. The overlay does not replace statutory planning; it is a prototype layer for professional deepening. Each rule follows `Rule ID → Spatial Scope → Object → Requirement/KPI → Source → Responsible Party → Permission → Commissioning Gate → Evidence → Version → Re-test Trigger → Rollback/Exit`.
 
-The two planes meet in a **Civic AI Overlay**, a machine-readable layer that does not change statutory land use, FAR or height. It structures AI interfaces, permission ceilings, test stages, operating responsibility, fallback and exit requirements that conventional regulatory plans cannot easily express.
+**Professional support: AI Infrastructure Support.** Rather than a broad six-network narrative, this proposal focuses on three AI-specific spatial questions: **C | Compute Matching**, **P | Compute–Power Coordination**, and **W | Compute–Water Coordination**. Communications, underground municipal infrastructure, transport and logistics remain necessary engineering and scenario-enabling conditions, but are not positioned as independent originality claims.
 
-The **C0-C6 Commissioning Gates** are: evidence baseline; simulation without real control; rule check; shadow/dummy load; limited real load; human-supervised operation; and recertification/rollback/exit. The **City Evidence Ledger** records scope, operator, responsible human, data/model provenance and version, risk class, permission, commissioning stage, test evidence, failures, interventions, approvals, re-test triggers and exit.
+**Operating method: C0-C6 + City Evidence Ledger.** The seven gates remain the route from concept to real-city operation: C0 evidence/responsibility baseline, C1 simulation, C2 planning/engineering/public-interest rule check, C3 shadow or dummy load, C4 limited real load, C5 human-supervised operation, C6 recertification/rollback/exit. The Evidence Ledger records scope, accountability, data/model versions, permissions, evidence, failure events and retest triggers. They make the proposal verifiable without dominating the main narrative.
 
 ### Innovation ecosystem: from clustering firms to validating the real city
 
@@ -90,17 +90,17 @@ Renewal follows diagnosis - deliberation - planning - action - commissioning - r
 
 ![Three key areas](assets/figures/key-areas.en.png)
 
-**Zhongzhiyuan - CITY TESTBED.** A reference testing environment before urban deployment: open test grounds, robot/autonomous-system routes, edge-compute and communications nodes, distributed energy/storage interfaces, model-safety and governance labs and developer facilities. Testing generates evidence; it does not automatically grant operating permission. [data:geometry/key_areas.geojson#PROV-KEY-001]
+**Zhongzhiyuan - CITY TESTBED.** The zone tests how AI R&D results qualify for real-city use. Spatial modules include open test grounds, robot/autonomous-system routes, developer facilities and AI-infrastructure interfaces. The infrastructure emphasis is **high-reliability compute access, test compute, edge nodes, compute-power coordination, storage and robot charging/swapping**, not a large training-oriented AIDC. Testing generates evidence; it does not automatically grant operating permission. [data:geometry/key_areas.geojson#PROV-KEY-001]
 
-**Beijing AI Origin Community - LIVING LOAD.** A high-quality talent neighborhood and everyday public-AI load area. Housing, education, health, community services, accessibility, commuting, active ground floors and night life come first. Basic public services do not require a commercial AI account; critical services retain human, phone and physical access. [data:geometry/key_areas.geojson#PROV-KEY-002] [standard:BARRIER-FREE-ENVIRONMENT-LAW]
+**Beijing AI Origin Community - LIVING LOAD.** A high-quality talent neighborhood and everyday public-AI load area. Housing, education, health, community services, accessibility, commuting, active ground floors and night life come first. Infrastructure focuses on **edge inference, low-latency public services, low-intrusion sensing and emergency power**, rather than turning the neighborhood into an equipment showcase. Critical public services retain four equivalent paths: **AI access / human access / offline access / low- or no-sensing route**. [data:geometry/key_areas.geojson#PROV-KEY-002] [standard:BARRIER-FREE-ENVIRONMENT-LAW]
 
-**Dazhongsi - RENEWAL RULE LAB.** A laboratory for AI-era renewal and regulatory rules, with a planning deliberation room, district-parcel optimizer, machine-readable rule checker and project evidence ledger. AI simulation cannot substitute statutory public participation or make automatic decisions on FAR, property rights or demolition. [data:geometry/key_areas.geojson#PROV-KEY-003] [depth:three_key_area_detailed_design]
+**Dazhongsi - RENEWAL RULE LAB.** The most planning-intensive key area becomes an **AI Renewal Unit Regulatory Workbench**. Inputs from residents, owners, government, operators and public-service needs are translated into spatial variables, public-interest constraints, implementation conditions and alternative scenarios; outputs become A/B/C rules, renewal projects, temporary-use/positive lists, implementation status and retest records. The workflow is **diagnosis → multi-party deliberation → district-parcel check → public-interest check → rule generation → renewal projects → phased implementation → one-map maintenance → recertification**. Infrastructure focuses on existing-building compute adaptation, shared inference services, low-cost access and incremental-capacity control. AI may simulate, but cannot decide FAR, property rights, demolition, or replace statutory participation. [data:geometry/key_areas.geojson#PROV-KEY-003] [depth:three_key_area_detailed_design]
 
 ## AI Innovation Ecosystem, Personas, and AI+ Scenarios
 
 Eight personas cover AI researchers/developers; start-ups and firms; households; older and disabled users; students/visitors; municipal operators; property/development actors; and planning/regulatory decision-makers. Personas are acceptance-test loads for usability, fairness, fallback and maintainability. [metric:persona_count]
 
-The 12 scenarios are: infrastructure interoperability Plugfest; autonomous-logistics micro-hub; municipal-AI control sandbox; machine-readable planning rule engine; public-service Agent station; accessible mobility Agent; urban-flood resilience Agent; compute-energy coordination; civic AI micro-node; public-space event/resource coordination; open-source contribution and public-audit node; renewal deliberation plus district-parcel optimizer. SC-01 to SC-04 are explicit test/validation scenarios. Each scenario identifies location, users, data and privacy boundary, operator, human review, risk, fallback and exit. [metric:scenario_card_count] [metric:test_validation_scenario_count]
+The 12 scenarios are: infrastructure interoperability Plugfest; autonomous-logistics micro-hub; municipal-AI control sandbox; machine-readable planning rule engine; public-service Agent station; accessible mobility Agent; urban-flood resilience Agent; compute-power-water adaptation and workload orchestration; civic AI micro-node; public-space event/resource coordination; open-source contribution and public-audit node; renewal deliberation plus district-parcel optimizer. SC-01 to SC-04 are explicit test/validation scenarios. Each scenario identifies location, users, data and privacy boundary, operator, human review, risk, fallback and exit. [metric:scenario_card_count] [metric:test_validation_scenario_count]
 
 Vertical service sub-scenarios include health navigation (not diagnosis), education with teacher review, public legal/planning-rule explanation (not legal advice), life services with non-digital alternatives, small-business support without black-box exclusion, and accessible/risk-aware mobility. [standard:GENERATIVE-AI-INTERIM-MEASURES]
 
@@ -110,15 +110,27 @@ The land-use model covers the submitted boundary and supports the research-valid
 
 Approved FAR, height, setback, density, ownership and complete building surveys are unavailable, so `floor_area_ratio` and `building_height_control_m` remain unknown. Official information must replace constraints and baseline data before recalculating area, massing and project boundaries. [standard:MOHURD-CONTROL-DETAILED-PLANNING] [depth:development_intensity_controls]
 
-## Transport, Rail, Municipal Infrastructure, and Public Services
+## Transport, Rail, and AI Infrastructure Adaptation
 
-![Mobility and municipal systems](assets/figures/mobility-bluegreen.en.png)
+![Mobility and AI infrastructure adaptation](assets/figures/mobility-bluegreen.en.png)
 
-The public spine prioritizes continuous walking and cycling with three conceptual east-west stitching nodes. Curbs are time-shared among pick-up/drop-off, delivery, autonomous logistics, emergency and events. Robots and automated vehicles use geofenced test areas, time windows and human takeover.
+**Transport and public space serve people first.** The public spine prioritizes continuous walking and cycling, with conceptual east-west stitching near the three key areas. Curb space can time-share pick-up/drop-off, delivery, autonomous logistics, emergency and events; robots and automated vehicles require geofenced test areas, time windows and human takeover. Communications, underground municipal systems and logistics follow normal professional requirements for redundancy, maintenance and interface reservation rather than becoming stand-alone concepts.
 
-Blue-green, sponge-city, drainage and flood prediction are coordinated, but AI prediction never replaces physical drainage capacity. Energy design links distributed energy, storage, charging, flexible building load and compute demand. Compute follows a regional-service plus edge-node hierarchy. Communications use multi-operator and multi-path resilience. Underground infrastructure is planned for maintenance, replacement, fault isolation and emergency access. [depth:municipal_public_services]
+### AI Infrastructure Support | Compute–Power–Water Nexus
+
+This section answers one question: **what kind of compute does Jing-Zhang need, and how should it fit within core-city power, water and space constraints?** The nexus centers on **AI Workload Orchestration**. All capacity language remains at rule/interface level; the proposal does not invent MW, pipe diameters, water allocations or fixed engineering alignments. [depth:municipal_public_services]
+
+**C | Compute Matching.** Use a three-tier hierarchy: regional compute for model training and high-intensity workloads, generally outside the core city; district-level compute services for inference, digital twins, urban models, R&D and shared enterprise services; and edge nodes near Zhongzhiyuan, AI Origin, public space and municipal scenarios for low-latency, privacy-sensitive and high-reliability tasks. The planning question is not “where can a data center fit?” but **which workloads must remain local, which can be shared at district scale, and which should be regionally supplied**.
+
+**P | Compute–Power Coordination.** Upgrade from “forecast load → provide distribution facilities” to **compute workload × power condition × storage × flexible building load × time**. Classify workloads as: protected loads for emergency and critical public services; flexible loads such as ordinary inference, enterprise computing and charging; and migratable loads such as training or batch jobs that can move to regional compute. Planning therefore focuses on dispatchable capacity and degradation strategies rather than an invented aggregate capacity.
+
+**W | Compute–Water Coordination.** New compute in the core city must respect water-resource and thermal constraints. Use four spatial adaptation levels: **W0** edge micro-nodes with negligible additional cooling-water demand; **W1** small/medium compute favoring low-water or closed-loop cooling; **W2** high-density compute requiring joint proof of energy, water, heat rejection and heat-reuse conditions; **W3** water- and energy-intensive workloads without local latency needs should be regionally supplied. This is a conceptual siting/admission framework, not a substitute for water, energy or engineering studies.
+
+**Differentiated roles by area.** Zhongzhiyuan emphasizes high-reliability test compute, compute-power coordination and robot charging; AI Origin emphasizes edge inference, low-intrusion sensing and emergency power; Dazhongsi emphasizes existing-building compute adaptation, shared services and incremental-capacity control; the public spine uses only small composite edge nodes, not an “equipment corridor”.
 
 ## Blue-Green Network, Public Space, and Urban Character
+
+**Public interest becomes a spatial acceptance standard.** Critical public-AI services should make four paths visible and reachable at the same place: **AI access / human access / offline access / low- or no-sensing route**. Basic services must remain available without a commercial account; failure of network or model must not erase basic service; wheelchair users, older people and low-digital-literacy users should pass the same service acceptance test. This turns inclusion from an ethics statement into an urban-design condition. [standard:BARRIER-FREE-ENVIRONMENT-LAW] [depth:blue_green_public_space]
 
 The heritage park is an **open-innovation and public-audit spine**, not a technology exhibition corridor. Real streets, shade, low-threshold public space, railway heritage and small digital interfaces dominate the character. Building-height numbers are not invented without statutory and heritage controls. [standard:MOHURD-URBAN-DESIGN-MEASURES] [depth:blue_green_public_space]
 
