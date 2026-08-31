@@ -1,1 +1,0 @@
-Binary assets will be added in the final package commit.
