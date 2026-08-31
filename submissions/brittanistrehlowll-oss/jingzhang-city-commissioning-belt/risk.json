@@ -1,0 +1,11 @@
+{
+  "schema_version": "0.1.0",
+  "design_principle_zh": "城市没有标准答案；AI建议必须可讨论、可校核、可接管、可回滚、可退出。",
+  "risks": [
+    {"risk_id":"R-01","system":"公共服务Agent","risk":"错误建议或排斥低数字能力人群","human_override":"人工窗口/电话/现场服务","rollback":"降级为信息导航","exit":"关闭自动建议"},
+    {"risk_id":"R-02","system":"交通与路权Agent","risk":"错误调度影响安全","human_override":"交通管理人员最终批准","rollback":"恢复固定时段/人工信号","exit":"断开控制接口"},
+    {"risk_id":"R-03","system":"市政AI","risk":"预测与控制被混淆","human_override":"市政值守批准控制动作","rollback":"MANUAL模式","exit":"物理旁路/断开AI控制"},
+    {"risk_id":"R-04","system":"规划优化器","risk":"把模型评分误作法定决策","human_override":"法定程序+公众参与+专业审查","rollback":"仅保留模拟结果","exit":"停止决策输出"},
+    {"risk_id":"R-05","system":"数据与感知","risk":"隐私、过度监测、用途漂移","human_override":"数据治理责任人审批","rollback":"最小化采集/脱敏","exit":"删除或停采非必要数据"}
+  ]
+}
