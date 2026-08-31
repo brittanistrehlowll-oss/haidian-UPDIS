@@ -1,9 +1,10 @@
 {
   "schema_version":"0.1.0",
+  "role_note_zh":"C0–C6是运行验证方法，不是方案第一原创点；规划层由Civic AI Overlay先定义空间对象、接口、权限、责任与退出条件。",
   "gates":[
-    {"gate":"C0","name":"Evidence Baseline","input":"公开/清权资料、责任与风险","output":"可追溯基线"},
+    {"gate":"C0","name":"Evidence Baseline","input":"公开/清权资料、空间范围、责任与风险","output":"可追溯基线"},
     {"gate":"C1","name":"Simulation","input":"模型与情景假设","output":"不连接真实控制权的模拟证据"},
-    {"gate":"C2","name":"Rule Check","input":"规划/工程/安全/隐私/无障碍规则","output":"可进入测试或退回修改"},
+    {"gate":"C2","name":"Rule Check","input":"规划/工程/安全/隐私/无障碍/公共利益规则","output":"可进入测试或退回修改"},
     {"gate":"C3","name":"Shadow/Dummy Load","input":"影子或假负载","output":"冗余、故障恢复、人工接管证据"},
     {"gate":"C4","name":"Limited Real Load","input":"限定范围/时间/人群/权限","output":"真实城市证据"},
     {"gate":"C5","name":"Human-supervised Operation","input":"扩大服务范围","output":"持续人工监督与审计"},
@@ -11,8 +12,11 @@
   ],
   "scenario_tests":[
     {"id":"SIM-01","scenario":"内涝预测失败","expected":"系统降级为人工与传统预案，不降低排水物理标准"},
-    {"id":"SIM-02","scenario":"边缘节点断连","expected":"多路径通信与人工服务维持关键功能"},
-    {"id":"SIM-03","scenario":"无障碍导航数据错误","expected":"标注不确定性并转人工/现场确认"},
-    {"id":"SIM-04","scenario":"规划优化器给出高分方案但违反公众利益约束","expected":"C2规则校核阻断，不进入真实空间决策"}
+    {"id":"SIM-02","scenario":"边缘节点断连","expected":"关键公共服务转人工/离线路径，通信故障不成为获得基础服务的门槛"},
+    {"id":"SIM-03","scenario":"无障碍导航数据错误","expected":"标注不确定性并转人工/现场确认；轮椅和低数字技能用户仍能完成基础任务"},
+    {"id":"SIM-04","scenario":"规划优化器给出高分方案但违反公众利益约束","expected":"C2规则校核阻断，不进入真实空间决策；模型评分不替代法定程序与真实公众参与"},
+    {"id":"SIM-05","scenario":"公共服务Agent账号/模型/网络不可用","expected":"AI / 人工 / 离线 / 低或无感知四路径中至少有非AI路径保持基础服务结果等价"},
+    {"id":"SIM-06","scenario":"高密算力需求超过未经核实的电力或水资源条件","expected":"不推定可用MW/MVA/水量；任务降级、延后或迁移到区域算力，设施保持CONDITION-BASED"},
+    {"id":"SIM-07","scenario":"模型、数据或规则版本变化导致既有许可条件失效","expected":"触发C6复验；未通过则回滚上一稳定版本或退出真实运行"}
   ]
 }
