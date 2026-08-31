@@ -28,7 +28,7 @@ All spatial moves are conceptual open-call proposals. The package uses the repos
 
 ![Proposal overview: real urban design, Civic AI Overlay and three key areas](assets/figures/site-overview.en.png)
 
-### No Standard Answer for a City: Human and Silicon Intelligence for Better Life
+### No Standard Answer for a City: Human and Silicon Intelligence for Better Everyday Life
 
 There is no single standard answer for a life, and even less for a city. The meaning of a city is not to be “solved” once by a planner, an institution, or an algorithm, but to enable the people who live there to keep sensing, choosing, creating, and revising. Cities have historically embodied and amplified human experience, institutions, and engineering intelligence. In the future, AI systems will increasingly contribute sensing, computation, reasoning, and coordination. We do not frame these two forms of intelligence as competitors, nor do we cast AI as a “super-brain” that replaces residents' value judgments. **Human intelligence and silicon intelligence share a common aspiration: to make our lives better.** Human intelligence contributes values, lived experience, ethics, emotion, responsibility, and final judgment; silicon intelligence contributes large-scale sensing, complex simulation, real-time coordination, and continuous learning. Their common purpose is not technology itself, but better everyday life, public value, and long-term urban resilience.
 
@@ -204,6 +204,10 @@ The public-node system is **3+1**:
 2. **Open Evidence Hall** — exposes rules, sources, versions, test evidence and failures;
 3. **Civic Override Beacon** — makes limited AI authority, human responsibility and exit visible;
 4. **Commissioning Commons** — a supporting shared field for developers, residents and operators, not one of the three core honor nodes. [metric:ai_landmark_count]
+
+The machine-readable layer uses `PUBLIC-LM-01`, `PUBLIC-LM-02` and `PUBLIC-LM-03` as conceptual representative points for the three core nodes. These points sit within the current `provisional_rough` key-area or public-spine model and express node relationships only; they are not official parcels, redlines or precise construction locations. [data:geometry/public_space.geojson#PUBLIC-LM-01] [data:geometry/public_space.geojson#PUBLIC-LM-02] [data:geometry/public_space.geojson#PUBLIC-LM-03]
+
+`PUBLIC-LM-004` represents the supporting shared-space polygon and likewise does not represent an official parcel, redline or precise construction location. [data:geometry/public_space.geojson#PUBLIC-LM-004]
 
 ## Renewal Projects, Implementation Policy, and Phasing
 

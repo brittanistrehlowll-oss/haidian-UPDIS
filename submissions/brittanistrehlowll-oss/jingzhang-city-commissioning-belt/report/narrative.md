@@ -4,6 +4,8 @@
 
 三重点区形成“技术验证 → 真实生活负载 → 更新与商业规则转化”的调测功能链：众智园是 CITY TESTBED，AI原点是 LIVING LOAD，大钟寺是 RENEWAL RULE LAB。公共服务把 AI / 人工 / 离线 / 低或无感知四路径作为空间验收标准。
 
+京张公共脊的公共节点采用“3+1”结构：First Run Yard、Open Evidence Hall、Civic Override Beacon 为三个核心公共荣誉节点，Commissioning Commons 为支撑型共享场。`public_space.geojson` 用三个 provisional 代表点和一个面状共享场表达这一关系；点位不代表官方地块、红线或精确建设位置。
+
 外部优化意见仅吸收可证据化部分：分级调测路权、模块化联调舱、双轨失效安全、数字宁静/低感知空间与多元运营机制均作为条件性规划原型；固定低空高度、通道宽度、设备间距、测试天数、建设年份和工程容量等无依据参数不进入正式稿。
 
 所有边界和重点区几何继续标注 `provisional_rough`。FAR、高度、权属、文保、市政容量、低空规则和工程参数缺失时保持 unknown / to verify，正式资料发布后整体复算。

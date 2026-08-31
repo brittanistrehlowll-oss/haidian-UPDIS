@@ -11,8 +11,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "name_zh": "公共联调空间",
-        "landmark_id": "LM-01",
+        "name_zh": "京张公共脊联调空间",
+        "spatial_role": "public_spine",
         "area_sqm_declared": 745753.896
       },
       "geometry": {
@@ -396,7 +396,9 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "name_zh": "First Run Yard",
+        "spatial_role": "supporting_shared_space",
+        "name_zh": "联调共享场",
+        "name_en": "Commissioning Commons",
         "landmark_id": "LM-04",
         "area_sqm_declared": 28800.0
       },
@@ -425,6 +427,84 @@
               39.96800588409264
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PUBLIC-LM-01",
+      "properties": {
+        "id": "PUBLIC-LM-01",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "spatial_role": "core_honor_node",
+        "name_zh": "首发试运行场",
+        "name_en": "First Run Yard",
+        "landmark_id": "LM-01",
+        "area_sqm_declared": null,
+        "location_basis": "provisional_key_area_representative_point",
+        "linked_key_area_id": "dazhongsi_ai_industry_cluster",
+        "location_note": "概念代表点位于大钟寺重点区粗略范围内，不代表官方地块或红线。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3485,
+          39.94692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PUBLIC-LM-02",
+      "properties": {
+        "id": "PUBLIC-LM-02",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "spatial_role": "core_honor_node",
+        "name_zh": "开放证据厅",
+        "name_en": "Open Evidence Hall",
+        "landmark_id": "LM-02",
+        "area_sqm_declared": null,
+        "location_basis": "provisional_key_area_representative_point",
+        "linked_key_area_id": "beijing_ai_origin_community",
+        "location_note": "概念代表点位于AI原点社区重点区粗略范围内，不代表官方地块或红线。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PUBLIC-LM-03",
+      "properties": {
+        "id": "PUBLIC-LM-03",
+        "layer": "PUBLIC_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "spatial_role": "core_honor_node",
+        "name_zh": "公共接管灯塔",
+        "name_en": "Civic Override Beacon",
+        "landmark_id": "LM-03",
+        "area_sqm_declared": null,
+        "location_basis": "provisional_key_area_representative_point",
+        "linked_key_area_id": "zhongzhiyuan_ai_acceleration_area",
+        "location_note": "概念代表点位于众智园重点区粗略范围内，不代表官方地块或红线。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3485,
+          40.01675
         ]
       }
     }

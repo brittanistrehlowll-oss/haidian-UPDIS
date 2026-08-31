@@ -844,6 +844,10 @@ AI可以提高预测和调度能力，但：
 
 作为开发者、居民、企业、运维者和公共部门共同测试、交流和反馈的支撑型共享空间，不列入三个核心公共荣誉节点。
 
+机器可读层以 `PUBLIC-LM-01`、`PUBLIC-LM-02`、`PUBLIC-LM-03` 表达三个核心节点的概念代表点；这些点位均落在当前 `provisional_rough` 重点区或公共脊模型内，仅用于表达节点关系，不代表官方地块、红线或精确建设位置。 [data:geometry/public_space.geojson#PUBLIC-LM-01] [data:geometry/public_space.geojson#PUBLIC-LM-02] [data:geometry/public_space.geojson#PUBLIC-LM-03]
+
+以 `PUBLIC-LM-004` 表达支撑型共享场的面状范围，同样不代表官方地块、红线或精确建设位置。 [data:geometry/public_space.geojson#PUBLIC-LM-004]
+
 [metric:ai_landmark_count]
 
 ## 更新项目清单、实施政策与分期计划
