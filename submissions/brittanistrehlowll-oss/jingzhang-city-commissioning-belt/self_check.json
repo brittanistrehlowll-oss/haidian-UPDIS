@@ -68,13 +68,14 @@
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/simulation.json",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/sources.json",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/standard_matrix.json",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/visual/assets/fonts/jingzhang-cjk-subset.css",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/visual/index.en.html",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/visual/index.html"
       ],
       "ai_package_stages": {
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt": "formal"
       },
-      "total_bytes": 34704785,
+      "total_bytes": 34884864,
       "maintainer_bypass": false
     },
     "stderr": ""

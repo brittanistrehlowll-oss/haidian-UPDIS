@@ -26,14 +26,14 @@
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
-      "sha256": "5abf118938eb812bd78bf041b180bddbc79b1639c93a33a5a7e4e9ff28776c65",
+      "sha256": "e51e9ffaef2adfa1851dd2d23da956f8e7f45f566173ca7843e021c343db05e6",
       "language": "zh"
     },
     {
       "path": "proposal.en.md",
       "role": "narrative",
       "required": true,
-      "sha256": "c23340042ddb3c67b9075aafae4d50e8c42e9ff17ee5e0986980fcab653c5c63",
+      "sha256": "9c82050ac26c05fa53a2a24aa9ccb8f805cc0f848227f797ca4caf71cb9b7dc9",
       "language": "en",
       "translation_of": "proposal.md"
     },
@@ -59,13 +59,13 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "ce85262da031c77cdbe36caff7125826c138635431ab903b60613d29afd7c729"
+      "sha256": "14f100044f1ee9a522a9a24bf27ee8fff7fac110e8cad8689bc0ad3a3e7bbc2e"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "8bf32465fbb4c54d019f81ef798441f033da8a12f821e5c36eb80773cd75f5fb"
+      "sha256": "24356c2e8d12b3446908848baf95f68d6490a44e7e988130ab6ea770bf76a71d"
     },
     {
       "path": "compliance_matrix.json",
@@ -89,14 +89,14 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "edac798e437cf938f5377a71cda5bac32acd60c9330faf45bc5d3e498fc6f361",
+      "sha256": "1bd2e0011ea656c905ed5f7516abd5aff7c92d59ac075fa95792f3f43e2bb705",
       "language": "zh"
     },
     {
       "path": "report/proposal.en.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "efc07d4ff8d9e74a5fc1c3b8dd447294d4bc59e4ec72a5f6821e793bf7a3373f",
+      "sha256": "385fa7cdbacccb0d34ef38934d3bca271c533e4731499b525919e288f7ba45bb",
       "language": "en",
       "translation_of": "report/proposal.html"
     },
@@ -111,7 +111,7 @@
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "83a720d88a7dbfdb7f6b6c9f3e181f6600983a60047513102a9a93f1f02b94f9",
+      "sha256": "cb142d80779d4f63c9244e581c9e2f2c720acb4fcad45800b9a316a54003d43f",
       "language": "zh"
     },
     {
@@ -145,17 +145,24 @@
       "translation_of": "drawings/a0-boards.pdf"
     },
     {
+      "path": "visual/assets/fonts/jingzhang-cjk-subset.css",
+      "role": "visualization",
+      "required": false,
+      "language": "neutral",
+      "sha256": "4fc619e08bec83de47aa63aeff483c6a8c2400fdacc1b1f063dd801919dade41"
+    },
+    {
       "path": "visual/index.html",
       "role": "visualization",
       "required": true,
-      "sha256": "f8f2f299088c51ef3a3d0ed9d19055a70cc6dfacb87b01216ea28bbe7e25f0d6",
+      "sha256": "3b5f85068bf2a1da53272c1f0481901bfd73d9ea0055032cc7a09dfaebc19d5c",
       "language": "zh"
     },
     {
       "path": "visual/index.en.html",
       "role": "visualization",
       "required": true,
-      "sha256": "4a77009aaa5c220a837ee4d1fdc2f4ca428d55cd0d18bc8e6842ef69d49c60bf",
+      "sha256": "f9fa2d85d6b3145dc8ca030adb1c69d7d95a0985801f11f9a60e43e590f0f6cb",
       "language": "en",
       "translation_of": "visual/index.html"
     },
@@ -230,11 +237,11 @@
       "role": "media_poster",
       "required": false,
       "language": "neutral",
-      "title_zh": "区域协同图3｜典型场景素材与城市测试界面",
+      "title_zh": "区域协同图3｜真实场景素材与城市测试界面",
       "title_en": "Regional Coordination Board 3 | Representative Scenes and Urban-Test Interfaces",
-      "description_zh": "把社区生活、科研模型、科学智能、智能制造、铁路遗产公共空间和区域支撑组织为六类城市测试界面；图内影像为典型场景示意。",
-      "description_en": "Six urban-test interfaces for community life, research models, scientific intelligence, intelligent manufacturing, railway-heritage public space and regional support; image content is representative scenario imagery.",
-      "sha256": "b2e39d5f1f033a77041fd6801df41e871948f8bbc14da65a1df49b0f6f6d0988"
+      "description_zh": "以社区生活、AI科研、科学智能、工程化、京张公共空间和京津冀区域支撑六类场景来源，对应众智园、AI原点社区、大钟寺以及中关村科技服务翼+Compute Matching四类本地承接界面；图内影像为典型场景示意。",
+      "description_en": "Six representative scenario sources—community life, AI research, scientific intelligence, engineering, Jing-Zhang public space and Jing-Jin-Ji regional support—are mapped to four local interfaces: Zhongzhiyuan, AI Origin Community, Dazhongsi, and Zhongguancun Technology Service Wing + Compute Matching. Image content is representative scenario imagery.",
+      "sha256": "ab0048a5635f75fe6777ba969bf0b167ff8f08d5d5346d1d66cdf7316b4982fa"
     },
     {
       "path": "assets/media/regional-coordination-04-loop.png",
@@ -392,7 +399,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "84a46abd90456691194efe3c1cdfc0793b9d68e8f3c808efe9d304ac4268f0d5",
+      "sha256": "43b1ea8daa6cf7e6161f846d45b3bd57a5a8c70756c8d190acd6ad1ac9cf2eb3",
       "language": "zh"
     }
   ],

@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "The Jing-Zhang City Commissioning Belt uses the Jing-Zhang railway heritage as a public-space spine, and Zhongzhiyuan, AI Origin Community and Dazhongsi as a chain from technical validation to civic use and planning translation. Civic AI Overlay, Compute / Power / Water and C0–C6 support a verifiable urban-design implementation path."
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability", "ai-health-service-navigation", "robot-delivery-low-speed", "ai-cultural-guide", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v0.9-formal"
+iteration: "v0.11-formal"
 ---
 
 # JING-ZHANG CITY COMMISSIONING BELT
@@ -128,13 +128,36 @@ The following four boards form a supplementary regional-coordination design laye
 
 #### Board 3 | Representative Scenes and Urban-Test Interfaces
 
-![Board 3 | Representative scenes and urban-test interfaces: from capability sources to local test interfaces](assets/media/regional-coordination-03-scenarios.png)
+![Board 3 | Representative scenes and urban-test interfaces: from regional scene sources to local Jing-Zhang reception interfaces](assets/media/regional-coordination-03-scenarios.png)
 
-**Planning judgment |** Board 3 moves regional coordination from spatial relationship to scene interface. Community life, research models, scientific intelligence, intelligent manufacturing, railway-heritage public space and regional compute become six source types that urban design can receive. The image insets express spatial type, activity atmosphere and interface relationship as **典型场景示意 / Representative Scenario Imagery**.
+**Planning judgment |** Regional coordination is further grounded in real urban conditions. Six scene sources—community life, research innovation, scientific intelligence, engineering, the Jing-Zhang railway-heritage public space and regional resources—are matched with four local reception interfaces in the Jing-Zhang urban-design system, clarifying how different capabilities enter the real city and become testable.
 
-**Spatial reception |** The scenes map to the AI Origin Community life-service interface; Zhongzhiyuan research-prototype and tool-validation interface; Dazhongsi scientific-intelligence and simulation interface; Zhongguancun technology-service wing engineering and pilot-manufacturing interface; Xiaoyue River scenario-enablement wing urban-life and industry-activity interface; and the Beijing-Tianjin-Hebei regional-support interface.
+**Six scene sources |**
 
-**Input → reception → output / feedback |** Inputs appear as needs, models, data, equipment, heritage space and regional support; reception appears through public space, building ground floors, streets, neighborhoods and renewal units; outputs become scene validation, public-service improvement, engineering interfaces, program records and planning-rule updates.
+- **Beiwei Community and surrounding neighborhoods** provide everyday needs and lived-use feedback;
+- **Future Science City** provides AI research results, models and tools;
+- **Huairou Science City** provides scientific intelligence, simulation and research data;
+- **Beijing E-Town** provides robotics, intelligent equipment and engineering capability;
+- **The Jing-Zhang public spine and railway-heritage scenes** provide real public space, heritage use and urban-event settings;
+- **The Beijing-Tianjin-Hebei region** provides regional compute, industry networks and resource support.
+
+**Four local reception interfaces |**
+
+1. **Zhongzhiyuan | CITY TESTBED** receives research, scientific-intelligence and engineering capabilities represented by Future Science City, Huairou Science City and Beijing E-Town, and adapts models, tools, equipment and products to real streets, buildings, public space and infrastructure conditions.
+
+2. **AI Origin Community + Xiaoyue River Scenario Wing | LIVING LOAD** receives everyday needs and lived-use feedback from Beiwei Community and surrounding neighborhoods, using community services, public space, accessibility and daily-life scenes to assess improvements in civic-service experience.
+
+3. **Dazhongsi | RENEWAL RULE LAB** receives spatial experience and operating evidence from the Jing-Zhang public spine, railway-heritage use and local urban validation, translating mature results into existing-city renewal, spatial organization and dynamic-maintenance rules.
+
+4. **Zhongguancun Technology Service Wing + Compute Matching** receives regional compute, industry networks and resource support from Beijing-Tianjin-Hebei, connecting enterprise services, talent, capital and technology transfer to support local validation and regional scaling.
+
+**Evidence mechanism |** The City Evidence Ledger is a horizontal evidence mechanism rather than an independent spatial node. It runs across research, engineering and urban validation, recording model versions, test conditions, spatial scope, feedback and re-test requirements so that scene testing can inform subsequent planning judgments.
+
+The simplified scene-translation path is:
+
+**Research Source → Engineering → Urban Validation → Evidence Settlement → Planning Translation & Regional Scaling**
+
+The scene images express representative spatial types, use conditions and capability sources as **典型场景示意 / Representative Scenario Imagery**; specific cooperation, authorization and implementation arrangements remain subject to authoritative public information and subsequent specialist review.
 
 #### Board 4 | Coordination Loop and Value-Translation Path
 

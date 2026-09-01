@@ -48,6 +48,12 @@
       "path": "brief/site-package/agent_taskbook.json",
       "source_type": "official_public",
       "usage": "Repository-published agent open-call taskbook: positioning, mandatory tasks, brand/scenario/operation requirements and claim boundaries."
+    },
+    {
+      "id": "NOTO-SANS-SC-LICENSE",
+      "url": "https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE",
+      "source_type": "third_party_open_license",
+      "usage": "SIL Open Font License 1.1 source for the Noto Sans SC variable typeface (metadata version 2.04;241114210130;non-release; wght 100-900). A character subset is embedded as a data URI in the offline HTML review pages under the renamed family JingZhang CJK Subset; the source metadata's Reserved Font Name Source is not used."
     }
   ]
 }
