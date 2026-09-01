@@ -86,9 +86,11 @@ Zhongzhiyuan, Beijing AI Origin Community and Dazhongsi respectively support ope
 
 The three scales create a working division of city-system coordination, overall urban design and key-area deepening: the upper scale coordinates resources and capability flows, the middle scale organizes the public spine and spatial structure, and the lower scale turns spatial prototypes, public services, building interfaces and renewal actions into implementable units. [depth:three_level_scope_framework]
 
-### Regional innovation coordination interfaces
+### Regional Innovation Coordination | From Regional Position to Urban Capability Translation
 
-The 43.6 km² coordinated research area also serves as the planning interface through which regional capabilities enter the real city. Jing-Zhang's regional role is to carry the missing link of real-world urban validation and civic-application translation within **research supply → engineering translation → urban validation → civic application → evidence feedback → iteration**. This establishes a clear capability-exchange and translation pathway, while the table separates capability input, Jing-Zhang's role and output / feedback. It is a proposed planning interface for capability exchange and coordination; it does not assert formal partnerships:
+The 43.6 km² coordinated research area also serves as the planning interface through which regional capabilities enter the real city. Jing-Zhang takes **URBAN VALIDATION & PLANNING TRANSLATION INTERFACE** as its regional role, carrying the middle of **research supply → engineering translation → urban validation → civic application → evidence feedback → iteration**. External innovation capabilities become urban conditions that can enter public space, neighborhood life and existing-city renewal, while remaining complementary to research campuses, manufacturing bases and regional compute.
+
+Regional coordination follows the working chain **real position → urban reception → scene interface → evidence settlement → planning translation → regional scaling**. Regional partners provide research, simulation, engineering, lived feedback and industry-network inputs; one spine, three key areas, two wings and many nodes provide spatial reception; scene validation and the City Evidence Ledger create traceable feedback; mature experience becomes spatial prototypes, public-service requirements, renewal rules and transferable methods. The table separates capability input, Jing-Zhang's role and output / feedback. It is a proposed planning interface for capability exchange and coordination; formal partnerships, funding, data-exchange agreements and government implementation mechanisms enter dedicated procedures after the relevant parties confirm them:
 
 |Coordination interface|Capability input / scene|Jing-Zhang's existing role|Output / feedback|Existing system|
 |---|---|---|---|---|
@@ -99,6 +101,50 @@ The 43.6 km² coordinated research area also serves as the planning interface th
 |Beijing-Tianjin-Hebei coordination|Regional compute, industry networks, migratable computation and batch processing|Local interfaces for high-value, low-latency urban tasks|Task-scheduling needs, validation methods and transferable experience|Compute Matching / regional compute → shared district services → edge nodes|
 
 The interfaces are organized around capability input, spatial capacity, service feedback and evidence return: research and simulation provide verifiable capabilities, engineering translation provides deployable conditions, the public spine and three key areas provide real users and urban fabric, and the City Evidence Ledger translates feedback into the next rule and pilot conditions. [source:AGENT-TASKBOOK]
+
+### Four Regional Coordination Boards | From Spatial Relationship to Value Loop
+
+The following four boards form a supplementary regional-coordination design layer. In sequence, they answer where regional capabilities come from, how they enter Jing-Zhang, which urban scenes receive them, and how they return as planning value. Arrows, distances and boundaries are used as planning diagrams; photo-like insets are consistently labeled **典型场景示意 / Representative Scenario Imagery**. Specific locations, distances, boundaries and points enter coordinated review against authoritative public sources and specialist studies at the next stage.
+
+#### Board 1 | Regional Position and Coordination Pattern
+
+![Board 1 | Regional position and coordination pattern: Jing-Zhang as urban validation and planning-translation interface](assets/media/regional-coordination-01-location.png)
+
+**Planning judgment |** A three-level view—Beijing-Tianjin-Hebei region, Beijing municipality and the Haidian local area—establishes the spatial reading of regional coordination. Jing-Zhang is positioned as an interface where research, scientific intelligence, engineering pilot work, lived feedback and regional support enter local urban validation.
+
+**Spatial reception |** The Jing-Zhang public spine, Zhongzhiyuan, AI Origin Community, Dazhongsi and the two wings create a reception framework from regional capability to urban space and civic application. Railway-heritage public space provides an identifiable local validation interface.
+
+**Input → reception → output / feedback |** Research outputs, models and toolchains enter urban testing; scientific intelligence and simulation enter the evidence ledger; engineering capability enters equipment and street scenes; neighborhood feedback enters service and public-space renewal; regional compute and industry networks support high-value, low-latency and migratable tasks.
+
+#### Board 2 | Beijing-Scale Coordination Interfaces and Spatial Reception
+
+![Board 2 | Beijing-scale coordination interfaces and spatial reception: regional innovation resources entering local Jing-Zhang space](assets/media/regional-coordination-02-interface.png)
+
+**Planning judgment |** At the Beijing scale, an interface layer organizes **input → spatial reception → urban output**. Capabilities from different sources and at different maturity levels are directed to reception units with clear urban roles, creating a planning-oriented capability–space match.
+
+**Spatial reception |** Zhongzhiyuan CITY TESTBED receives research, engineering and multi-party testing; AI Origin Community LIVING LOAD receives neighborhood service, lived feedback and accessibility validation; Dazhongsi RENEWAL RULE LAB receives scientific intelligence, evidence re-testing and existing-city renewal rules. The Zhongguancun technology-service wing, Xiaoyue River scenario-enablement wing and Compute Matching provide professional services, ecological life and compute-scheduling support.
+
+**Input → reception → output / feedback |** Future Science City and Huairou Science City provide research and scientific-intelligence inputs; Beijing E-Town provides robotics and engineering inputs; Beiwei Community and surrounding Haidian communities provide lived feedback; Beijing-Tianjin-Hebei provides regional compute and industry coordination. Jing-Zhang translates these into urban-validation evidence, public-service improvements, product-interface requirements and reusable rules.
+
+#### Board 3 | Representative Scenes and Urban-Test Interfaces
+
+![Board 3 | Representative scenes and urban-test interfaces: from capability sources to local test interfaces](assets/media/regional-coordination-03-scenarios.png)
+
+**Planning judgment |** Board 3 moves regional coordination from spatial relationship to scene interface. Community life, research models, scientific intelligence, intelligent manufacturing, railway-heritage public space and regional compute become six source types that urban design can receive. The image insets express spatial type, activity atmosphere and interface relationship as **典型场景示意 / Representative Scenario Imagery**.
+
+**Spatial reception |** The scenes map to the AI Origin Community life-service interface; Zhongzhiyuan research-prototype and tool-validation interface; Dazhongsi scientific-intelligence and simulation interface; Zhongguancun technology-service wing engineering and pilot-manufacturing interface; Xiaoyue River scenario-enablement wing urban-life and industry-activity interface; and the Beijing-Tianjin-Hebei regional-support interface.
+
+**Input → reception → output / feedback |** Inputs appear as needs, models, data, equipment, heritage space and regional support; reception appears through public space, building ground floors, streets, neighborhoods and renewal units; outputs become scene validation, public-service improvement, engineering interfaces, program records and planning-rule updates.
+
+#### Board 4 | Coordination Loop and Value-Translation Path
+
+![Board 4 | Coordination loop and value-translation path: regional research, Jing-Zhang validation and planning translation](assets/media/regional-coordination-04-loop.png)
+
+**Planning judgment |** Board 4 summarizes regional coordination as a recurring urban-innovation mechanism: **Research → Engineering → Urban Test → Daily Life → Evidence → Planning Rule → Regional Scaling**. Jing-Zhang's distinctive value is to convert external innovation resources into local capacity that can enter the real city, serve everyday civic life and feed back into planning rules.
+
+**Spatial reception |** Zhongzhiyuan carries urban testing; AI Origin Community receives everyday life; Dazhongsi carries rule translation; the Jing-Zhang public spine links heritage, public activity and urban service; the Zhongguancun and Xiaoyue River wings coordinate professional services, ecological life and industry activity.
+
+**Input → reception → output / feedback |** Research and engineering create verifiable capability and deployable conditions; urban testing and daily life create use feedback; evidence settlement becomes planning rules; regional scaling returns re-tested spatial prototypes, service methods and interface experience to the regional network for the next research and testing cycle. [depth:three_level_scope_framework]
 
 ## 04 | Jing-Zhang Public Spine | From Railway Heritage to Civic Life
 
@@ -500,12 +546,12 @@ This index reduces reviewer search cost by linking review focuses directly to ex
 
 |Review focus|Planning response|Existing sections and evidence|
 |---|---|---|
-|Jing-Zhang AI innovation belt, Haidian innovation ecosystem, urban space and public governance|One spine, three key areas, two wings and many nodes translate regional capabilities into public space, public service and renewal rules.|01–05, 08, 10; site-overview, key-areas, public_space.geojson|
+|Jing-Zhang AI innovation belt, Haidian innovation ecosystem, urban space and public governance|One spine, three key areas, two wings and many nodes translate regional capabilities into public space, public service and renewal rules.|01–05, 08, 10; site-overview, key-areas, regional-coordination-01/02/04, public_space.geojson|
 |Phasing, pilot areas, participants and metrics|Three key areas and NOW / NEXT / CONDITION-BASED organize spatial actions, operating interfaces and metric review.|05, 07, 12, 13.2; key_areas.geojson, phasing.geojson, metrics.json|
 |Residents, young talent, firms, universities, visitors and vulnerable groups|Eight user groups, four service paths and public-spine prototypes organize reachable, legible and participatory urban services.|04, 05B, 08.4, 11.4–11.5; scenario cards and four paths|
 |Public-source boundary, privacy, copyright and policy uncertainty|Provenance labels, Civic AI Overlay, City Evidence Ledger and technical interfaces keep evidence and responsibility boundaries traceable.|10, 11.3, 13.1, 13.3; sources.json, risk.json and three matrices|
-|Brand identity, regional coordination, planning innovation and industrial support|Railway-heritage public spine, regional innovation interfaces and Compute / Power / Water create a Jing-Zhang-specific planning innovation.|01–03, 09–10; site-overview, mobility-bluegreen, metrics-evidence|
-|Scene legibility, spatial clarity, transferability and completeness of expression|Five core planning drawings and three supplemental architecture boards create a reading chain from spatial structure to area role, building experience and delivery interface.|04–08, 12; five core drawings, three architecture boards and delivery table|
+|Brand identity, regional coordination, planning innovation and industrial support|Railway-heritage public spine, regional innovation interfaces and Compute / Power / Water create a Jing-Zhang-specific planning innovation.|01–03, 09–10; site-overview, regional-coordination-01/02/04, mobility-bluegreen, metrics-evidence|
+|Scene legibility, spatial clarity, transferability and completeness of expression|Five core planning drawings, four regional-coordination boards and three supplemental architecture boards create a reading chain from spatial structure to regional relationship, area role, building experience and delivery interface.|04–08, 12; five core drawings, regional-coordination-01/02/03/04, three architecture boards and delivery table|
 |Public compliance, international communication and long-term value|Annual public-space programs, mechanism-level references, the evidence ledger and Rulebook Release support continuing re-testing and open communication.|11–13.4; City Evidence Ledger, program system and sources.json|
 
 ### 13.2 Core metrics and evidence index

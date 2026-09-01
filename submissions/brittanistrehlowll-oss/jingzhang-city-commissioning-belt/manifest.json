@@ -26,14 +26,14 @@
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
-      "sha256": "3252d73406ed58245165c5f268e5af1037e11f52f6eb1181ba0bd177c2b30824",
+      "sha256": "5abf118938eb812bd78bf041b180bddbc79b1639c93a33a5a7e4e9ff28776c65",
       "language": "zh"
     },
     {
       "path": "proposal.en.md",
       "role": "narrative",
       "required": true,
-      "sha256": "3ee56d43c49a118508590b0b42b9a34d5460180ed5370dd361c235e0a05fccd4",
+      "sha256": "c23340042ddb3c67b9075aafae4d50e8c42e9ff17ee5e0986980fcab653c5c63",
       "language": "en",
       "translation_of": "proposal.md"
     },
@@ -65,7 +65,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "e000b2752c01cd9f29d074bab603fc456ea7728b722fc538fb5fbd508c202b01"
+      "sha256": "8bf32465fbb4c54d019f81ef798441f033da8a12f821e5c36eb80773cd75f5fb"
     },
     {
       "path": "compliance_matrix.json",
@@ -89,14 +89,14 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "edb79cb011e5079fdc16b1028671b7cca1384e414ba35657ac8d18fb8be3f294",
+      "sha256": "edac798e437cf938f5377a71cda5bac32acd60c9330faf45bc5d3e498fc6f361",
       "language": "zh"
     },
     {
       "path": "report/proposal.en.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "f23cf3b99d6324822b18a565aaccbe90da1f4a0963b0996820d5acbf737b8a3a",
+      "sha256": "efc07d4ff8d9e74a5fc1c3b8dd447294d4bc59e4ec72a5f6821e793bf7a3373f",
       "language": "en",
       "translation_of": "report/proposal.html"
     },
@@ -104,14 +104,14 @@
       "path": "report/narrative.md",
       "role": "narrative",
       "required": false,
-      "sha256": "d166c7053cfcd4018a6db55d14e97f9a6715023877e70a224121cefdebbc51e0",
+      "sha256": "aa5aa08f7a2e187aaef0709b100a013f5c1168a07fd4ab30cddb976d55034649",
       "language": "zh"
     },
     {
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "479053746dac8a7cdeeb10d358ed79026b6f89fd2aa93f1713cd11402fe23cf1",
+      "sha256": "83a720d88a7dbfdb7f6b6c9f3e181f6600983a60047513102a9a93f1f02b94f9",
       "language": "zh"
     },
     {
@@ -148,14 +148,14 @@
       "path": "visual/index.html",
       "role": "visualization",
       "required": true,
-      "sha256": "936e6639e187e1877e03abffcc52f2c57bc91aea9620301075f9970ae2bd8112",
+      "sha256": "f8f2f299088c51ef3a3d0ed9d19055a70cc6dfacb87b01216ea28bbe7e25f0d6",
       "language": "zh"
     },
     {
       "path": "visual/index.en.html",
       "role": "visualization",
       "required": true,
-      "sha256": "fb491a66cbcf55988960ab6df896699763aa803a6532fe8481b163110d6e1fae",
+      "sha256": "4a77009aaa5c220a837ee4d1fdc2f4ca428d55cd0d18bc8e6842ef69d49c60bf",
       "language": "en",
       "translation_of": "visual/index.html"
     },
@@ -202,6 +202,50 @@
       "title_en": "Scheme 3 | Spatial Sequence and Civic Interfaces",
       "description_zh": "以众智园、AI原点和大钟寺三处节点，以及白昼、夜景、连廊和圆形联调舱的连续体验组织空间序列。",
       "description_en": "A spatial sequence across Zhongzhiyuan, AI Origin and Dazhongsi, with day, night, bridge and commissioning-pod experiences."
+    },
+    {
+      "path": "assets/media/regional-coordination-01-location.png",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "title_zh": "区域协同图1｜区域区位关系与协同格局",
+      "title_en": "Regional Coordination Board 1 | Regional Position and Coordination Pattern",
+      "description_zh": "以京津冀区域、北京市域和海淀局部三级关系表达京张作为城市验证与规划转化接口的区域角色；图内场景为典型场景示意。",
+      "description_en": "A three-level regional reading of Beijing-Tianjin-Hebei, Beijing and Haidian, positioning Jing-Zhang as an urban-validation and planning-translation interface; image insets are representative scenario imagery.",
+      "sha256": "950b5448ba706a6a10908a651f0f0d331d2f18fb32d6300d7e498a85970497c8"
+    },
+    {
+      "path": "assets/media/regional-coordination-02-interface.png",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "title_zh": "区域协同图2｜北京尺度协同接口与空间承接",
+      "title_en": "Regional Coordination Board 2 | Beijing-Scale Interfaces and Spatial Reception",
+      "description_zh": "以众智园、AI原点社区、大钟寺、两翼和算力接口表达区域创新资源进入本地城市设计体系的空间承接关系。",
+      "description_en": "Spatial reception of regional innovation through Zhongzhiyuan, AI Origin Community, Dazhongsi, the two wings and the compute interface.",
+      "sha256": "4e31b589ac5664f9aa2d8562ffe70ffc44aa8892ade382621d11319d3330a8af"
+    },
+    {
+      "path": "assets/media/regional-coordination-03-scenarios.png",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "title_zh": "区域协同图3｜典型场景素材与城市测试界面",
+      "title_en": "Regional Coordination Board 3 | Representative Scenes and Urban-Test Interfaces",
+      "description_zh": "把社区生活、科研模型、科学智能、智能制造、铁路遗产公共空间和区域支撑组织为六类城市测试界面；图内影像为典型场景示意。",
+      "description_en": "Six urban-test interfaces for community life, research models, scientific intelligence, intelligent manufacturing, railway-heritage public space and regional support; image content is representative scenario imagery.",
+      "sha256": "b2e39d5f1f033a77041fd6801df41e871948f8bbc14da65a1df49b0f6f6d0988"
+    },
+    {
+      "path": "assets/media/regional-coordination-04-loop.png",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "title_zh": "区域协同图4｜协同闭环与价值转化路径",
+      "title_en": "Regional Coordination Board 4 | Coordination Loop and Value-Translation Path",
+      "description_zh": "以 Research → Engineering → Urban Test → Daily Life → Evidence → Planning Rule → Regional Scaling 表达区域研发、京张验证与规划转化的闭环。",
+      "description_en": "The loop from Research to Engineering, Urban Test, Daily Life, Evidence, Planning Rule and Regional Scaling.",
+      "sha256": "e3ff5c0d4f163fe0927f5b04367c9bb1c737843a7ebe4156da3d7e7091dc98a3"
     },
     {
       "path": "assets/figures/site-overview.png",
@@ -348,7 +392,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "412ef5e5ed0966f166271d530b448e5d3381c8032e9e1442d995fc61b1b26a6d",
+      "sha256": "84a46abd90456691194efe3c1cdfc0793b9d68e8f3c808efe9d304ac4268f0d5",
       "language": "zh"
     }
   ],

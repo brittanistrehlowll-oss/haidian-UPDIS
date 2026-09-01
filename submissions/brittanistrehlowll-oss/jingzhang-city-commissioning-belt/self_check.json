@@ -34,6 +34,10 @@
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/architecture-spatial-sequence.webp",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/architecture-technical-board.webp",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/cover.webp",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/regional-coordination-01-location.png",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/regional-coordination-02-interface.png",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/regional-coordination-03-scenarios.png",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/regional-coordination-04-loop.png",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assumptions.json",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/changelog.md",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/compliance_matrix.json",
@@ -70,7 +74,7 @@
       "ai_package_stages": {
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt": "formal"
       },
-      "total_bytes": 25910969,
+      "total_bytes": 34704785,
       "maintainer_bypass": false
     },
     "stderr": ""
