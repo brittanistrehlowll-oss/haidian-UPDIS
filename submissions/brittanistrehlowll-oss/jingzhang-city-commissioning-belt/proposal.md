@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "京张·城市联调带以京张铁路遗产构成公共空间骨架，以众智园、AI原点社区和大钟寺形成技术验证—公共应用—规划转化的城市创新链；以 Civic AI Overlay、Compute / Power / Water 与 C0–C6 共同支撑从城市愿景到可验证实施的规划设计。"
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability", "ai-health-service-navigation", "robot-delivery-low-speed", "ai-cultural-guide", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v0.11-formal"
+iteration: "v0.12-formal"
 ---
 
 # 京张·城市联调带
@@ -57,7 +57,7 @@ iteration: "v0.11-formal"
 
 总体结构遵循“城市生活先成立、创新能力再嵌入、规则随着证据维护”的层次关系。公共脊提供连续的空间体验，重点区提供差异化的城市功能，两翼提供跨区域协同，多节点提供日常与活动的弹性承载。 [depth:overall_spatial_structure]
 
-![方案总览：一脊、三重点区、两翼与多节点](assets/figures/site-overview.png)
+![场地总览：43.6 km²为公告文字统筹研究范围且暂无对应官方polygon；红色虚线为约11.41 km² provisional_rough总体设计模型范围](assets/figures/site-overview.png)
 
 ### START HERE｜评审导读
 
@@ -74,11 +74,11 @@ iteration: "v0.11-formal"
 
 ### 43.6km²统筹研究范围｜CITY SYSTEM
 
-统筹研究范围承接公告确定的城市级任务，研究AI科研、产业、人才、公共服务、算力能源和真实场景反馈之间的区域关系，形成创新生态与城市系统协同框架。该尺度使用公告文字面积和任务关系开展研究。 [source:OFFICIAL-ANNOUNCEMENT]
+43.6km²是公告文字明确的统筹研究范围，用于研究AI科研、产业、人才、公共服务、算力能源和真实场景反馈之间的区域关系，形成创新生态与城市系统协同框架。当前以公告文字面积和任务关系表达该城市系统尺度；组织方尚未提供与该文字面积对应的官方polygon，因此本层不把43.6km²绘制为当前提交几何。 [source:OFFICIAL-ANNOUNCEMENT]
 
 ### 约11.4km²总体设计范围｜CITY COMMISSIONING DISTRICT
 
-总体设计范围以京张遗址公园及周边城市地区为主要空间载体，落位公共脊、东西向缝合、慢行与蓝绿系统、AI基础设施接口、市政韧性网络和存量更新单元。当前提交几何复算约11.41km²，为概念设计模型的空间尺度。 [data:geometry/site_boundary.geojson#SITE-001] [metric:site_area_sqm]
+总体设计范围以京张遗址公园及周边城市地区为主要空间载体，落位公共脊、东西向缝合、慢行与蓝绿系统、AI基础设施接口、市政韧性网络和存量更新单元。`geometry/site_boundary.geojson` 的 `SITE-001` 采用 `provisional_rough` 属性，面积由当前 submitted polygon 几何复算约11.41km²，属于本稿概念设计模型范围。场地总览图中的红色虚线只表示这一约11.41km²模型范围，与43.6km²公告文字统筹研究尺度相互独立；后续与法定边界、控规、权属、文保和工程条件衔接校核，不作为审批依据。 [data:geometry/site_boundary.geojson#SITE-001] [metric:site_area_sqm]
 
 ### 约368.4ha三处重点区域｜CITY LABS
 
@@ -88,7 +88,7 @@ iteration: "v0.11-formal"
 
 ### 区域创新协同｜从真实区位到城市能力转化
 
-43.6km²统筹研究范围同时承担区域能力进入真实城市的规划接口功能。京张以**城市验证与规划转化接口**（URBAN VALIDATION & PLANNING TRANSLATION INTERFACE）作为区域角色，承接“科研供给—工程转化—城市验证—公共应用—证据反馈—再迭代”的中段环节，把外部创新能力转译为可进入公共空间、社区生活和存量更新的城市条件，并与科研园区、制造基地和区域算力形成互补。
+在43.6km²公告文字统筹研究尺度内，京张承担区域能力进入真实城市的规划接口功能。京张以**城市验证与规划转化接口**（URBAN VALIDATION & PLANNING TRANSLATION INTERFACE）作为区域角色，承接“科研供给—工程转化—城市验证—公共应用—证据反馈—再迭代”的中段环节，把外部创新能力转译为可进入公共空间、社区生活和存量更新的城市条件，并与科研园区、制造基地和区域算力形成互补。该处43.6km²继续表示研究叙事尺度，当前空间落位以约11.41km² `provisional_rough` 总体设计模型及三处重点区几何为准。
 
 区域协同采用“**真实区位 → 城市承接 → 场景接口 → 证据沉淀 → 规划转化 → 区域扩散**”的工作链。区域主体提供科研、仿真、工程化、生活反馈和产业网络等能力输入；一脊、三重点区、两翼、多节点提供空间承接；场景验证与 City Evidence Ledger 形成可追溯反馈；成熟经验再转化为空间原型、公共服务要求、更新规则和可迁移的方法。下表将“输入—承担—输出 / 反馈”分开呈现，属于 proposed planning interface，用于组织能力交换与规划协同；正式合作关系、资金安排、数据交换协议和政府实施机制在相关主体确认后进入专门程序：
 
@@ -110,6 +110,8 @@ iteration: "v0.11-formal"
 
 ![图1｜区域区位关系与协同格局：京张作为城市验证与规划转化接口](assets/media/regional-coordination-01-location.png)
 
+*图内场景影像：典型场景示意｜非对应地点实景证据。*
+
 **规划判断｜**以京津冀区域—北京市域—海淀局部三级区位关系建立区域协同的空间认知，明确京张在区域创新网络中的接口位置：科研源、科学智能源、工程化中试、生活反馈与区域支撑共同汇入本地城市验证。
 
 **空间承接｜**京张公共脊、众智园、AI原点社区、大钟寺和两翼形成“区域能力—城市空间—公共应用”的承接骨架；铁路遗产公共空间提供可识别的本地验证界面。
@@ -120,6 +122,8 @@ iteration: "v0.11-formal"
 
 ![图2｜北京尺度协同接口与空间承接：从区域创新资源到京张本地空间](assets/media/regional-coordination-02-interface.png)
 
+*图内场景影像：典型场景示意｜非对应地点实景证据。*
+
 **规划判断｜**在北京尺度建立“资源输入—空间承接—城市输出”的接口层，把不同来源、不同成熟度的创新能力分配到具有明确城市角色的承接单元，形成面向规划实施的能力—空间匹配。
 
 **空间承接｜**众智园 CITY TESTBED 承接研发、工程化和多主体测试；AI原点社区 LIVING LOAD 承接社区服务、生活反馈与可达性验证；大钟寺 RENEWAL RULE LAB 承接科学智能、证据复验与存量更新规则；中关村科技服务翼、小月河场景赋能翼和 Compute Matching 提供专业服务、生态生活与算力调度支撑。
@@ -129,6 +133,8 @@ iteration: "v0.11-formal"
 #### 图3｜真实场景素材与城市测试界面
 
 ![图3｜真实场景素材与城市测试界面：从区域场景来源到京张本地承接界面](assets/media/regional-coordination-03-scenarios.png)
+
+*图内场景影像：典型场景示意｜非对应地点实景证据。*
 
 **规划判断｜**区域协同进一步落实到真实城市环境，通过社区生活、科研创新、科学智能、工程制造、京张铁路遗产公共空间和区域资源六类场景来源，与京张现有城市设计体系中的四类本地承接界面建立对应关系，说明不同创新能力进入真实城市后的具体测试路径。
 
@@ -163,6 +169,8 @@ iteration: "v0.11-formal"
 
 ![图4｜协同闭环与价值转化路径：区域研发、京张验证与规划转化](assets/media/regional-coordination-04-loop.png)
 
+*图内场景影像：典型场景示意｜非对应地点实景证据。*
+
 **规划判断｜**图4将区域协同归纳为可循环的城市创新机制：**Research → Engineering → Urban Test → Daily Life → Evidence → Planning Rule → Regional Scaling**。京张的核心价值在于把外部创新资源转换为可进入真实城市、服务公众生活并反馈规划规则的本地能力。
 
 **空间承接｜**众智园承担城市测试，AI原点社区承接日常生活，大钟寺承接规则转化，京张公共脊串联遗产、公共活动与城市服务，中关村科技服务翼和小月河场景赋能翼承担专业服务、生态生活和产业活动的协同界面。
@@ -182,6 +190,22 @@ iteration: "v0.11-formal"
 5. **Event Field｜城市开放活动场**：通过可移动设施、可调整的开放场地和周边公共服务，支持 Commissioning Week、Open Urban AI Plugfest、市集、展览与日常使用之间的状态转换。
 
 五类原型共同建立“日常状态 + 活动状态”的时间性公共空间：平日提供通行、停留和服务，活动时提供展陈、交流、测试和公众反馈。它们以公共空间品质为先，再容纳AI解释界面、城市微节点和联调活动。
+
+### VI与导视最小规范｜文字标识、片区识别与公共空间导向
+
+本稿采用清晰、可复用的文字标识系统，将城市设计主线、三处重点区和年度公共活动纳入同一母品牌；当前阶段以文字标识和概念色彩系统完成识别，不另行主张独立图形Logo。 [source:AGENT-TASKBOOK]
+
+|识别层级|统一规范|城市空间应用|
+|---|---|---|
+|**母品牌文字标**|中文：**京张·城市联调带**；英文：**JING-ZHANG CITY COMMISSIONING BELT**。中英文采用锁定组合，同版出现时保持字距、行距和相对比例稳定。|公共脊入口、公共导览、开放证据厅和正式发布物。|
+|**主口号**|**GOOD CITY FIRST｜城市生活优先**，作为母品牌下的价值口号，与主标志保持清晰层级。|入口标题、公共空间说明、活动开场和页面首屏。|
+|**三重点区身份**|众智园 **CITY TESTBED**、AI原点社区 **LIVING LOAD**、大钟寺 **RENEWAL RULE LAB**。三者作为片区副身份，统一置于母品牌下。|片区入口、节点说明、城市家具与专题导视。|
+|**橙色星形节点**|仅表示“核心公共荣誉节点 / supporting commons”识别，不代表AI设备、审批状态或商业品牌。|First Run Yard、Open Evidence Hall、Civic Override Beacon 与 Commissioning Commons 的节点导向。|
+|**活动子品牌**|Commissioning Week、Open Urban AI Plugfest、Civic Audit Open Day、Rulebook Release 均使用母品牌前缀或联署关系，保持名称、日期、主办责任和活动状态清晰。|Event Field、Developer Commons、开放证据厅和年度活动导视。|
+
+**色彩与字体规则｜**公共脊铁路色 `#B5523B`（RGB 181, 82, 59），CITY TESTBED 金色 `#CF9D3E`（RGB 207, 157, 62），LIVING LOAD 蓝色 `#1C5C73`（RGB 28, 92, 115），RENEWAL RULE LAB 绿色 `#486B5D`（RGB 72, 107, 93）；纸面底色和深色底分别提供全彩、黑白单色和反白版本。标识安全区以主文字标志字高的 **1x** 为最小周边留白，屏幕最小宽度建议 **120px**、印刷最小宽度建议 **25mm**；低于该尺寸时只保留片区文字，不压缩中英文锁定组合。中文页面使用页面内嵌的 `JingZhang CJK Subset`，英文使用同一无衬线字体系；字体来源与 SIL Open Font License 1.1 见 `report/copyright_statement.md`，导视箭头、圆点和星形符号按其空间语义独立使用。
+
+**方法原创性说明｜**开放公共空间、慢行优先、适应性再利用、Living Lab 和证据账本属于可复用的城市规划方法；本方案的特有组合是“京张铁路遗产公共脊 + 三重点区城市角色 + Compute / Power / Water 资源适配 + 六类 Civic AI Overlay 规划控制 + C0–C6 证据循环”，以同一条城市设计主线把遗产、生活、产业、基础设施和更新规则连接起来。
 
 ## 05｜三重点区城市设计｜重点区域详细设计
 
@@ -237,19 +261,19 @@ AI原点社区以15分钟生活网络为组织框架，把住房、教育、健�
 
 ### 方案一｜城市界面原型：开放创新建筑群与京张公共脊
 
-![方案一：开放创新建筑群、京张公共脊、公共连廊与联调节点](assets/media/architecture-overview.webp)
+![方案一：开放创新建筑群、京张公共脊、公共连廊与联调节点｜AI/数字生成的概念示意，非现状实景、非批准方案](assets/media/architecture-overview.webp)
 
 方案一以京张公共脊两侧的建筑母体为重点：白色开放建筑采用规则体量、通透首层、水平长窗和可变工作界面，承接开放创新与协作；红砖城市建筑以实体感、深窗和垂直构件回应铁路记忆、城市尺度和长期公共使用。建筑退界形成前广场与庭院，公共连廊串联两侧首层，三个色彩节点提示“技术可用—公共可用—规则可用”的空间转译关系。
 
 ### 方案二｜建筑—公共空间一体化系统
 
-![方案二：三节点总图、城市剖面、结构概念、连廊细部与材料氛围](assets/media/architecture-technical-board.webp)
+![方案二：三节点总图、城市剖面、结构概念、连廊细部与材料氛围｜AI/数字生成的概念示意，非现状实景、非批准方案](assets/media/architecture-technical-board.webp)
 
 方案二通过“总图—城市剖面—功能图解—结构意向—连廊细部—材料—日夜状态”的组合，说明建筑如何与公共空间形成一体化系统。共享大厅、立体步行、城市露台和公共连廊把建筑内部活动延伸到公共脊；浅色建筑、暖色砖石、轻型金属与玻璃共同构成新旧关系清晰、尺度亲切的材料体系。黄色、蓝色和红色节点分别表达技术测试、公共服务与规则公开的空间角色。
 
 ### 方案三｜公共空间序列：从创新前厅到更新议事厅
 
-![方案三：京张公共脊、三重点区、昼夜场景与公共空间序列](assets/media/architecture-spatial-sequence.webp)
+![方案三：京张公共脊、三重点区、昼夜场景与公共空间序列｜AI/数字生成的概念示意，非现状实景、非批准方案](assets/media/architecture-spatial-sequence.webp)
 
 方案三建立连续的场所序列：**创新前厅 → 验证街道 → 城市共享场 → 社区生活客厅 → 更新议事厅**。众智园提供可复现的技术测试和设备替换界面，AI原点提供面向居民的公共服务、解释和人工帮助，大钟寺提供证据公开、规则复验和更新协商界面。主轴、广场、首层、连廊、绿化和联调舱共同形成可步行的公共脊；日景与夜景表达使用氛围和运营时段的变化。
 
@@ -511,18 +535,26 @@ SC-01、SC-02、SC-03、SC-04构成4个产业 / 规划验证场景，覆盖互�
 
 更新项目清单以概念建筑单元、公共空间项目和服务接口组成，当前建筑模型对应18个概念更新单元；项目行动与实施分期在同一工作框架中衔接。 [depth:renewal_project_list] [depth:phasing_implementation]
 
-### 嵌入式设计—实施对应
+### agent.6运营转化与嵌入式设计—实施对应
 
-既有空间与行动在规划层形成实施接口，沿用现有片区、公共空间、活动、基础设施和 C0–C6 口径。`Delivery Lead` 与 `Funding Mode` 表示后续实施研究中的责任和资源接口，不预设正式合作主体、合同或工程承诺。
+agent.6 以 Developer Commons 为年度运营入口，把活动报名、受控测试、证据复核、社区/企业服务和规则更新组织为可追踪的转化链。Developer Commons 是当前概念性的公共空间运营接口，不预设正式运营机构、合作协议或资金安排；各主体、资金和合作关系均标记为 proposed / 待确认。
 
-|既有空间 / 行动|对应层级|Phase|Delivery Lead（规划层接口）|Funding Mode（概念路径）|Service Level|Acceptance Evidence|
-|---|---|---|---|---|---|---|
-|京张公共脊与公共空间微节点|总体城市设计 / 公共空间|NOW|城市设计与公共空间运营协同|公共空间改善与运营研究|C0–C2 Research / Simulation / Rule Check|慢行连续性、无障碍、服务路径与公众反馈记录|
-|Developer Commons / 众智园验证环境|重点片区 / 城市测试|NEXT|测试环境与空间运营协同|开放测试与专业服务组合|C3 Controlled Test|接口兼容、运行条件、人工接管与测试证据|
-|AI原点公共服务|重点片区 / 生活服务|NEXT|公共服务与社区空间协同|公共服务与空间运营研究|C4 Limited Real-load Service|服务可达性、四类路径、居民反馈与连续性证据|
-|大钟寺更新|重点片区 / 存量更新|NEXT → CONDITION-BASED|更新单元与项目实施协同|分期更新与公共功能植入研究|C0–C2 → C5 Human-supervised Operational Service|体检、单元策划、专项校核、公众参与与规则版本|
-|JZ Commissioning Week / Open Urban AI Plugfest|公共空间运营 / 活动|NOW → NEXT|活动与公共空间运营协同|活动运营与开放测试组合|C0–C3 Research to Controlled Test|活动记录、互操作报告、公众反馈与版本更新|
-|Compute / Power / Water 与 Civic AI Overlay|城市系统 / 基础设施适配|NEXT → CONDITION-BASED|基础设施与规划接口协同|专业专项研究与条件成熟型建设研究|C0–C2 → C4/C5|任务—资源—空间匹配、条件清单与复验记录|
+**七步运营转化链｜**Application（申请）→ Eligibility Check（资格审查）→ Controlled Test（受控测试）→ Evidence Review（证据复核）→ Community / Enterprise Service（社区/企业服务）→ Rule Update（规则更新）→ Scale / Hold / Exit（扩展运行 / 保持受控 / 降级退出）。
+
+**年度运营节奏（概念性）｜**年度主题发布与申请 → 资格审查 → 受控测试与 Open Urban AI Plugfest → 公共服务/企业服务转化与日常使用 → 证据复核与 Civic Audit Open Day → Rulebook Release。进入受控测试需提交场景目的、空间范围、数据类别、人工责任人、资源条件、公众服务路径和测试计划；资格条件进入待补环节时保持 Hold（保持受控）。完成测试后，依据证据完整度、服务连续性、公众反馈、问题关闭率和复验触发条件推进社区/企业服务转化；证据成熟且条件可复制时进入 Scale（扩展运行），条件需持续观察时保持 Hold，触发复验或退出条件时进入 Exit（降级退出）。
+
+**可核验KPI（proposed / 待确认）｜**每年度记录报名与筛选清单、进入 C3 的测试数量、C3→C4/C5 的转化记录、证据包完整度、人工/离线/低感知路径覆盖、公众反馈与响应记录、问题关闭与复验记录、Rulebook 版本更新和退出记录。上述指标用于运营验收与证据交接，具体目标值、责任主体和数据权限在后续实施研究中确认。
+
+既有空间与行动在规划层形成实施接口，沿用现有片区、公共空间、活动、基础设施和 C0–C6 口径。`Delivery Lead`、`Decision Owner`、`Start Condition`、`No-Go / Hold`、`Acceptance Evidence` 与 `Handover Evidence` 共同描述后续实施研究中的责任、启动、验收和交接接口，不预设正式合作主体、合同或工程承诺。
+
+|既有空间 / 行动|对应层级|Phase|Delivery Lead（规划层接口）|Funding Mode（概念路径）|Service Level|Decision Owner|Start Condition|No-Go / Hold|Acceptance Evidence|Handover Evidence|
+|---|---|---|---|---|---|---|---|---|---|---|
+|京张公共脊与公共空间微节点|总体城市设计 / 公共空间|NOW|城市设计与公共空间运营协调（proposed）|公共空间改善与运营研究（proposed）|C0–C2 Research / Simulation / Rule Check|公共空间运营责任主体（待确认）|现状核查、节点清单、无障碍与维护路径确认|责任人、维护路径或基础服务连续性待确认时保持 Hold|慢行连续性、无障碍、四类服务路径与公众反馈记录|节点台账、运维责任、版本和问题清单|
+|Developer Commons / 众智园验证环境|重点片区 / 城市测试|NEXT|测试环境与空间运营协调（proposed）|开放测试与专业服务组合（proposed）|C3 Controlled Test|测试环境责任主体（待确认）|年度主题、报名规则、空间/资源条件、人工责任人和测试计划齐备|数据/权利、隐私、公共安全或人工接管条件未闭合时保持 Hold|报名与筛选记录、接口兼容、运行条件、人工介入与测试证据|测试报告、未关闭问题、复验触发和服务责任交接记录|
+|AI原点公共服务|重点片区 / 生活服务|NEXT|公共服务与社区空间协调（proposed）|公共服务与空间运营研究（proposed）|C4 Limited Real-load Service|社区服务运营责任主体（待确认）|基础服务底线、可达性、人工与离线路径和居民反馈机制确认|基础路径、公众告知或反馈机制未齐备时保持 Hold|服务可达性、四类路径、居民反馈与连续性证据|服务目录、人工转接、离线路径、问题台账和版本记录|
+|大钟寺更新|重点片区 / 存量更新|NEXT → CONDITION-BASED|更新单元与项目实施协调（proposed）|分期更新与公共功能植入研究（proposed）|C0–C2 → C5 Human-supervised Operational Service|更新单元与项目实施责任主体（待确认）|体检、资源识别、权属/文保/工程条件与公众参与路径进入校核|权属、文保、公共利益或专项条件未形成证据时保持 Hold|体检、单元策划、专项校核、公众参与与规则版本|项目清单、专项审查意见、规则版本、后续责任和维护触发|
+|JZ Commissioning Week / Open Urban AI Plugfest|公共空间运营 / 活动|NOW → NEXT|活动与公共空间运营协调（proposed）|活动运营与开放测试组合（proposed）|C0–C3 Research to Controlled Test|年度活动责任主体（待确认）|活动主题、场地容量、服务路径、人工值守和安全预案确认|场地、服务、安全或权利条件未闭合时保持 Hold|报名、活动、互操作、公众反馈和版本更新记录|活动复盘、问题关闭、复验计划和下一年度主题输入|
+|Compute / Power / Water 与 Civic AI Overlay|城市系统 / 基础设施适配|NEXT → CONDITION-BASED|基础设施与规划接口协调（proposed）|专业专项研究与条件成熟型建设研究（proposed）|C0–C2 → C4/C5|基础设施与规划接口责任主体（待确认）|任务—资源—空间条件清单、通信/能源/水务和运维接口完成核查|容量、散热、用水、通信或运维责任未形成证据时保持 Hold|任务—资源—空间匹配、条件清单和复验记录|接口清单、工程专项边界、资源责任、运行版本和复验触发|
 
 服务等级沿用既有 C0–C6 口径：C0–C2 = Research / Simulation / Rule Check；C3 = Controlled Test；C4 = Limited Real-load Service；C5 = Human-supervised Operational Service；C6 = Re-certified / Reduced / Exit。表中直接沿用既有空间、阶段和验证口径，不新增项目编号或管理体系。
 
@@ -585,8 +617,8 @@ SC-01、SC-02、SC-03、SC-04构成4个产业 / 规划验证场景，覆盖互�
 
 当前可由公告、提交几何或结构化清单复核的核心数字为：
 
-- **43.6km²**统筹研究范围；
-- **约11.4km²**总体设计范围，当前几何复算约11.41km²； [metric:site_area_sqm]
+- **43.6km²**公告文字统筹研究范围，当前以城市系统研究尺度表达且没有对应官方polygon；
+- **约11.4km²**总体设计模型范围，`geometry/site_boundary.geojson` 的 `provisional_rough` polygon 几何复算约11.41km²； [metric:site_area_sqm]
 - **约368.4ha**三处重点区域； [metric:key_area_count]
 - **约17.6%**设计模型绿地比例； [metric:green_ratio]
 - **约6.7%**设计模型公共空间比例； [metric:public_space_ratio]
@@ -598,17 +630,19 @@ SC-01、SC-02、SC-03、SC-04构成4个产业 / 规划验证场景，覆盖互�
 
 **数据替换 → 几何复核 → 指标复算 → 规则复验。** [depth:metrics_recalculation]
 
-![核心指标、Civic AI Overlay规则与证据链](assets/figures/metrics-evidence.png)
+![核心指标、六类Civic AI Overlay规划控制与证据链](assets/figures/metrics-evidence.png)
+
+第05图已更新为中英文双语版本，统一表达 **六类规划控制**（空间准入、服务范围、资源承载、运行条件、责任主体、动态维护），与本章正文、`metrics.json` 和 Civic AI Overlay 的结构化规则保持同一口径。图件来源、输入/底图记录、处理过程和公开提交权状态见 `report/copyright_statement.md` 与 `sources.json` 的 `visual_asset_provenance`。 [source:VISUAL-ASSET-PROVENANCE]
 
 结构化证据分布在 `geometry/site_boundary.geojson`、`key_areas.geojson`、`land_use.geojson`、`buildings.geojson`、`roads.geojson`、`green_space.geojson`、`public_space.geojson`、`constraints.geojson`、`phasing.geojson`，并由 `metrics.json`、`risk.json`、`simulation.json`、三类矩阵和双语图纸共同支撑。
 
 ### 13.3 技术边界与后续深化接口
 
-1. **概念设计边界—法定边界衔接校核。** `provisional_rough` 用于开放征集阶段的概念设计、面积复算和空间一致性检查；官方 polygon、控规、权属、文保和工程资料到位后，面积、比例、地块关系和接口条件整体复核。 [depth:risk_missing_data]
+1. **研究尺度—概念设计边界—法定边界衔接校核。** 43.6km²承接公告文字研究尺度；`geometry/site_boundary.geojson` 的 `provisional_rough` polygon 用于开放征集阶段的概念设计、面积复算和空间一致性检查，当前复算约11.41km²。官方 polygon、控规、权属、文保和工程资料到位后，面积、比例、地块关系和接口条件整体复核。 [depth:risk_missing_data]
 2. **缺失参数保持 `unknown / to verify`。** FAR、建筑高度、密度、人口承载、道路红线、文保控制线、市政容量、低空管理、MW、MVA、水量、管径、设备间距、测试天数、投资额和收益率等，进入下一阶段的控规、权属、文保和工程专项校核。
 3. **城市基础与AI增强层协同。** AI节点可提供预测、推演、调度和解释能力；道路、电网、水务、排水、消防、通信、铁路和应急系统继续按常规工程与运营责任组织。AI增强层与常规城市基底保持清晰接口，基础公共服务持续提供人工、离线和低 / 无感知路径。
 4. **公共参与与专业程序。** AI可以辅助证据整理、规则查询、情景比选和版本维护；涉及公共权利、土地、拆改、补偿和法定规划的判断，由真实公众参与、专业审查和有权主体程序完成。
-5. **运行安全与版权。** AI能力采用可暂停、可隔离、可降级、可回滚和可退出的运行设计；新增建筑视觉用于概念氛围与建筑—公共空间关系表达，投稿人应确认公开提交权利，公共仓库不包含未清权的内部底图、非公开指标、个人信息或受限工程资料。 [standard:GENERATIVE-AI-INTERIM-MEASURES]
+5. **运行安全与版权。** AI能力采用可暂停、可隔离、可降级、可回滚和可退出的运行设计；封面、土地利用图、建筑视觉和区域协同图均按“AI/数字生成的概念示意，非现状实景、非批准方案”或“典型场景示意”就地标识。逐图来源、生成工具/模型、输入素材、转换过程和公开提交权利状态登记在 `report/copyright_statement.md` 与 `sources.json`；投稿人已确认本组交付资产具有本次 PR、Gallery、Proposal Page 和 A3/A0 PDF 所需的公开提交权。原始附件未提供的工具/模型、底图和第三方素材具体凭证仍按未随包记录处理，不扩展为额外事实声明；公共仓库不包含已知未清权的内部底图、非公开指标、个人信息或受限工程资料。 [standard:GENERATIVE-AI-INTERIM-MEASURES]
 6. **区域协同的事实边界。** 区域创新协同接口属于规划层面的能力接口和潜在协同路径，不据此推定已经建立具名合作、资金安排、数据交换协议或政府实施安排；相关主体确认参与后，再进入责任、数据边界、服务水平和退出机制深化。
 
 ### 13.4 参考资料

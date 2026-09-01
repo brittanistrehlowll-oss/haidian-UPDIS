@@ -75,7 +75,7 @@
       "ai_package_stages": {
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt": "formal"
       },
-      "total_bytes": 34884864,
+      "total_bytes": 36233489,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -153,7 +153,7 @@
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 4,
+          "source": 5,
           "standard": 7,
           "depth": 16,
           "data": 11,

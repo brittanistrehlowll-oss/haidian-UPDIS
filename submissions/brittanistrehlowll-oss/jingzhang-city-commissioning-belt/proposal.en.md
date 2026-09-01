@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "The Jing-Zhang City Commissioning Belt uses the Jing-Zhang railway heritage as a public-space spine, and Zhongzhiyuan, AI Origin Community and Dazhongsi as a chain from technical validation to civic use and planning translation. Civic AI Overlay, Compute / Power / Water and C0–C6 support a verifiable urban-design implementation path."
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability", "ai-health-service-navigation", "robot-delivery-low-speed", "ai-cultural-guide", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v0.11-formal"
+iteration: "v0.12-formal"
 ---
 
 # JING-ZHANG CITY COMMISSIONING BELT
@@ -57,7 +57,7 @@ The overall urban-design framework is:
 
 The structure follows a clear sequence: city life is established first, innovation is embedded next, and rules are maintained through evidence. The public spine provides continuity, the key areas provide differentiated urban functions, the two wings provide regional coordination, and the nodes provide everyday and event flexibility. [depth:overall_spatial_structure]
 
-![Overall proposal: one spine, three key areas, two wings and many nodes](assets/figures/site-overview.en.png)
+![Site overview: 43.6 km² is the announcement's textual coordinated research area with no corresponding official polygon; the red dashed outline is the approx. 11.41 km² provisional_rough overall design-model area](assets/figures/site-overview.en.png)
 
 ### START HERE | Reviewer guide
 
@@ -74,11 +74,11 @@ Follow this path from the urban-design subject to the technical and implementati
 
 ### 43.6 km² coordinated research area | CITY SYSTEM
 
-The coordinated research area carries the city-scale task and studies relationships among AI research, industry, talent, public services, compute and energy, and real-world urban feedback. It establishes the innovation-ecosystem and city-system framework using the declared area and task relationships. [source:OFFICIAL-ANNOUNCEMENT]
+The 43.6 km² coordinated research area is the textual area stated in the official announcement. It studies relationships among AI research, industry, talent, public services, compute and energy, and real-world urban feedback, establishing the innovation-ecosystem and city-system framework. This city-system scale is expressed through the announced area and task relationships; the organizer has not supplied a corresponding official polygon, so 43.6 km² is not drawn as the current submitted geometry. [source:OFFICIAL-ANNOUNCEMENT]
 
 ### Approx. 11.4 km² overall design area | CITY COMMISSIONING DISTRICT
 
-The overall design area uses the Jing-Zhang Heritage Park and surrounding urban fabric as its principal carrier. It locates the public spine, east-west stitching, active mobility and blue-green systems, AI-infrastructure interfaces, resilient municipal networks and existing-city renewal units. The submitted geometry recalculates to about 11.41 km² as a conceptual design-model scale. [data:geometry/site_boundary.geojson#SITE-001] [metric:site_area_sqm]
+The overall design area uses the Jing-Zhang Heritage Park and surrounding urban fabric as its principal carrier. It locates the public spine, east-west stitching, active mobility and blue-green systems, AI-infrastructure interfaces, resilient municipal networks and existing-city renewal units. `geometry/site_boundary.geojson` feature `SITE-001` is marked `provisional_rough`; its area recalculates from the submitted polygon to about 11.41 km² as the conceptual design-model scale. The red dashed outline in the site overview indicates only this approx. 11.41 km² model area and is independent of the 43.6 km² textual coordinated research scale; it enters coordinated review with statutory boundaries, regulatory plans, ownership, heritage and engineering conditions and is not an approval basis. [data:geometry/site_boundary.geojson#SITE-001] [metric:site_area_sqm]
 
 ### Approx. 368.4 ha of three key areas | CITY LABS
 
@@ -88,7 +88,7 @@ The three scales create a working division of city-system coordination, overall 
 
 ### Regional Innovation Coordination | From Regional Position to Urban Capability Translation
 
-The 43.6 km² coordinated research area also serves as the planning interface through which regional capabilities enter the real city. Jing-Zhang takes **URBAN VALIDATION & PLANNING TRANSLATION INTERFACE** as its regional role, carrying the middle of **research supply → engineering translation → urban validation → civic application → evidence feedback → iteration**. External innovation capabilities become urban conditions that can enter public space, neighborhood life and existing-city renewal, while remaining complementary to research campuses, manufacturing bases and regional compute.
+Within the 43.6 km² textual coordinated research scale, Jing-Zhang serves as the planning interface through which regional capabilities enter the real city. Jing-Zhang takes **URBAN VALIDATION & PLANNING TRANSLATION INTERFACE** as its regional role, carrying the middle of **research supply → engineering translation → urban validation → civic application → evidence feedback → iteration**. External innovation capabilities become urban conditions that can enter public space, neighborhood life and existing-city renewal, while remaining complementary to research campuses, manufacturing bases and regional compute. The 43.6 km² figure remains a research-narrative scale; current spatial placement follows the approx. 11.41 km² `provisional_rough` overall design model and the three key-area geometries.
 
 Regional coordination follows the working chain **real position → urban reception → scene interface → evidence settlement → planning translation → regional scaling**. Regional partners provide research, simulation, engineering, lived feedback and industry-network inputs; one spine, three key areas, two wings and many nodes provide spatial reception; scene validation and the City Evidence Ledger create traceable feedback; mature experience becomes spatial prototypes, public-service requirements, renewal rules and transferable methods. The table separates capability input, Jing-Zhang's role and output / feedback. It is a proposed planning interface for capability exchange and coordination; formal partnerships, funding, data-exchange agreements and government implementation mechanisms enter dedicated procedures after the relevant parties confirm them:
 
@@ -104,11 +104,13 @@ The interfaces are organized around capability input, spatial capacity, service 
 
 ### Four Regional Coordination Boards | From Spatial Relationship to Value Loop
 
-The following four boards form a supplementary regional-coordination design layer. In sequence, they answer where regional capabilities come from, how they enter Jing-Zhang, which urban scenes receive them, and how they return as planning value. Arrows, distances and boundaries are used as planning diagrams; photo-like insets are consistently labeled **典型场景示意 / Representative Scenario Imagery**. Specific locations, distances, boundaries and points enter coordinated review against authoritative public sources and specialist studies at the next stage.
+The following four boards form a supplementary regional-coordination design layer. In sequence, they answer where regional capabilities come from, how they enter Jing-Zhang, which urban scenes receive them, and how they return as planning value. Arrows, distances and boundaries are used as planning diagrams; photo-like insets are consistently labeled **Representative Scenario Imagery**. Specific locations, distances, boundaries and points enter coordinated review against authoritative public sources and specialist studies at the next stage.
 
 #### Board 1 | Regional Position and Coordination Pattern
 
 ![Board 1 | Regional position and coordination pattern: Jing-Zhang as urban validation and planning-translation interface](assets/media/regional-coordination-01-location.png)
+
+*Scene insets: Representative Scenario Imagery · Not Site-Condition Evidence.*
 
 **Planning judgment |** A three-level view—Beijing-Tianjin-Hebei region, Beijing municipality and the Haidian local area—establishes the spatial reading of regional coordination. Jing-Zhang is positioned as an interface where research, scientific intelligence, engineering pilot work, lived feedback and regional support enter local urban validation.
 
@@ -120,6 +122,8 @@ The following four boards form a supplementary regional-coordination design laye
 
 ![Board 2 | Beijing-scale coordination interfaces and spatial reception: regional innovation resources entering local Jing-Zhang space](assets/media/regional-coordination-02-interface.png)
 
+*Scene insets: Representative Scenario Imagery · Not Site-Condition Evidence.*
+
 **Planning judgment |** At the Beijing scale, an interface layer organizes **input → spatial reception → urban output**. Capabilities from different sources and at different maturity levels are directed to reception units with clear urban roles, creating a planning-oriented capability–space match.
 
 **Spatial reception |** Zhongzhiyuan CITY TESTBED receives research, engineering and multi-party testing; AI Origin Community LIVING LOAD receives neighborhood service, lived feedback and accessibility validation; Dazhongsi RENEWAL RULE LAB receives scientific intelligence, evidence re-testing and existing-city renewal rules. The Zhongguancun technology-service wing, Xiaoyue River scenario-enablement wing and Compute Matching provide professional services, ecological life and compute-scheduling support.
@@ -129,6 +133,8 @@ The following four boards form a supplementary regional-coordination design laye
 #### Board 3 | Representative Scenes and Urban-Test Interfaces
 
 ![Board 3 | Representative scenes and urban-test interfaces: from regional scene sources to local Jing-Zhang reception interfaces](assets/media/regional-coordination-03-scenarios.png)
+
+*Scene insets: Representative Scenario Imagery · Not Site-Condition Evidence.*
 
 **Planning judgment |** Regional coordination is further grounded in real urban conditions. Six scene sources—community life, research innovation, scientific intelligence, engineering, the Jing-Zhang railway-heritage public space and regional resources—are matched with four local reception interfaces in the Jing-Zhang urban-design system, clarifying how different capabilities enter the real city and become testable.
 
@@ -157,11 +163,13 @@ The simplified scene-translation path is:
 
 **Research Source → Engineering → Urban Validation → Evidence Settlement → Planning Translation & Regional Scaling**
 
-The scene images express representative spatial types, use conditions and capability sources as **典型场景示意 / Representative Scenario Imagery**; specific cooperation, authorization and implementation arrangements remain subject to authoritative public information and subsequent specialist review.
+The scene images express representative spatial types, use conditions and capability sources as **Representative Scenario Imagery**; specific cooperation, authorization and implementation arrangements remain subject to authoritative public information and subsequent specialist review.
 
 #### Board 4 | Coordination Loop and Value-Translation Path
 
 ![Board 4 | Coordination loop and value-translation path: regional research, Jing-Zhang validation and planning translation](assets/media/regional-coordination-04-loop.png)
+
+*Scene insets: Representative Scenario Imagery · Not Site-Condition Evidence.*
 
 **Planning judgment |** Board 4 summarizes regional coordination as a recurring urban-innovation mechanism: **Research → Engineering → Urban Test → Daily Life → Evidence → Planning Rule → Regional Scaling**. Jing-Zhang's distinctive value is to convert external innovation resources into local capacity that can enter the real city, serve everyday civic life and feed back into planning rules.
 
@@ -182,6 +190,22 @@ The Jing-Zhang Public Spine is the spatial protagonist. Railway heritage provide
 5. **Event Field:** an adaptable open field with movable elements and adjacent public services for Commissioning Week, Open Urban AI Plugfest, markets, exhibitions and everyday use.
 
 Together the five prototypes establish a time-based public space with everyday and event states: daily movement, rest and service can shift into exhibition, exchange, testing and public feedback. Public-space quality comes first, with AI interpretation interfaces, civic micro-nodes and commissioning activity added as compatible layers.
+
+### VI and Wayfinding Minimum System | Wordmark, Area Identity and Civic Direction
+
+This proposal uses a clear, reusable wordmark system that places the urban-design spine, three key areas and annual public programs under one parent identity. At this stage the identity is delivered as a wordmark and conceptual colour system; it does not claim a separate graphic logo. [source:AGENT-TASKBOOK]
+
+|Identity layer|Unified rule|Urban-space application|
+|---|---|---|
+|**Parent wordmark**|Chinese: **京张·城市联调带**; English: **JING-ZHANG CITY COMMISSIONING BELT**. The Chinese and English lockup keeps stable spacing, line spacing and relative proportions wherever both appear together.|Public-spine gateways, public orientation, Open Evidence Hall and formal publications.|
+|**Primary tagline**|**GOOD CITY FIRST｜城市生活优先** is the value line under the parent identity and remains visually subordinate to the wordmark.|Gateway titles, public-space interpretation, event openings and the page hero.|
+|**Three area identities**|Zhongzhiyuan **CITY TESTBED**, AI Origin Community **LIVING LOAD**, and Dazhongsi **RENEWAL RULE LAB** are secondary identities under the parent brand.|Area gateways, node descriptions, civic furniture and special-purpose wayfinding.|
+|**Orange star node**|The orange star means **core public honor node / supporting commons** only; it does not identify an AI device, approval status or commercial brand.|Wayfinding to First Run Yard, Open Evidence Hall, Civic Override Beacon and Commissioning Commons.|
+|**Program sub-brands**|Commissioning Week, Open Urban AI Plugfest, Civic Audit Open Day and Rulebook Release use the parent-brand prefix or a clear co-signature, with name, date, responsible organizer and event state shown together.|Event Field, Developer Commons, Open Evidence Hall and annual program wayfinding.|
+
+**Colour and type rules |** Railway-spine red `#B5523B` (RGB 181, 82, 59), CITY TESTBED gold `#CF9D3E` (RGB 207, 157, 62), LIVING LOAD blue `#1C5C73` (RGB 28, 92, 115), and RENEWAL RULE LAB green `#486B5D` (RGB 72, 107, 93); full-colour, black-and-white monochrome and reversed versions are available for light and dark grounds. The minimum clear space is **1x**, where x equals the wordmark cap-height; suggested minimum width is **120px** on screen and **25mm** in print. Below that size, retain the area wordmark rather than compressing the bilingual lockup. Chinese pages use the embedded `JingZhang CJK Subset`; English uses the same sans-serif family. Font provenance and the SIL Open Font License 1.1 are recorded in `report/copyright_statement.md`; arrows, dots and stars retain their separate spatial meanings.
+
+**Originality statement |** Open public space, active-mobility priority, adaptive reuse, Living Lab practice and evidence ledgers are reusable urban-planning methods. This proposal's distinctive combination is **railway-heritage public spine + three key-area roles + Compute / Power / Water adaptation + six Civic AI Overlay planning controls + C0–C6 evidence cycle**, connecting heritage, everyday life, industry, infrastructure and renewal rules through one urban-design line.
 
 ## 05 | Urban Design of the Three Key Areas | Detailed Design of Key Areas
 
@@ -237,19 +261,19 @@ Three architecture scheme boards provide a complementary design layer for buildi
 
 ### Scheme 1 | Urban Interface Prototype: Open Innovation Buildings and the Jing-Zhang Public Spine
 
-![Scheme 1: open innovation buildings, Jing-Zhang public spine, public bridge and commissioning nodes](assets/media/architecture-overview.webp)
+![Scheme 1: open innovation buildings, Jing-Zhang public spine, public bridge and commissioning nodes | AI/digitally generated conceptual illustration, not existing-condition photography or an approved scheme](assets/media/architecture-overview.webp)
 
 Scheme 1 focuses on complementary building prototypes along the public spine. The open white building uses ordered massing, a transparent ground floor, horizontal windows and adaptable work interfaces for open innovation and collaboration. The red-brick building uses solidity, deep windows and vertical elements to respond to railway memory, urban scale and long-term civic use. Setbacks form forecourts and courtyards; a public bridge links the two ground floors; three color-coded nodes show the spatial translation from technical validity to civic validity to planning validity.
 
 ### Scheme 2 | Building–Public Space Integration System
 
-![Scheme 2: three-node master plan, urban section, structural concept, bridge detail and material atmosphere](assets/media/architecture-technical-board.webp)
+![Scheme 2: three-node master plan, urban section, structural concept, bridge detail and material atmosphere | AI/digitally generated conceptual illustration, not existing-condition photography or an approved scheme](assets/media/architecture-technical-board.webp)
 
 Scheme 2 uses a sequence of master plan, urban section, function diagram, structural intention, bridge detail, materials and day/night states to explain an integrated building–public-space system. Shared halls, three-dimensional walking, urban terraces and public bridges extend interior activity to the public spine. Light-colored buildings, warm brick and stone, and lightweight metal and glass create a legible relationship between new and existing fabric. Yellow, blue and red nodes indicate technical testing, public service and public rule disclosure.
 
 ### Scheme 3 | Public-Space Sequence: From Innovation Foyer to Renewal Deliberation Hall
 
-![Scheme 3: Jing-Zhang public spine, three key areas, day/night scenes and public-space sequence](assets/media/architecture-spatial-sequence.webp)
+![Scheme 3: Jing-Zhang public spine, three key areas, day/night scenes and public-space sequence | AI/digitally generated conceptual illustration, not existing-condition photography or an approved scheme](assets/media/architecture-spatial-sequence.webp)
 
 Scheme 3 establishes a continuous sequence: **innovation foyer → validation street → civic commons → neighborhood commons → renewal deliberation hall**. Zhongzhiyuan provides reproducible technical testing and replaceable device interfaces; AI Origin provides resident-facing public service, interpretation and human help; Dazhongsi provides evidence disclosure, rule re-testing and renewal deliberation. Axis, plaza, ground floor, bridge, planting and commissioning pods form a walkable public spine; day and night scenes express different use atmospheres and operating periods.
 
@@ -507,18 +531,26 @@ The phasing layer uses NOW / NEXT / CONDITION-BASED. [data:geometry/phasing.geoj
 
 The renewal project list combines conceptual building units, public-space projects and service interfaces; the current building model contains 18 conceptual renewal units, with project actions coordinated through the implementation framework. [depth:renewal_project_list] [depth:phasing_implementation]
 
-### Embedded design-to-delivery correspondence
+### agent.6 Operational Conversion and Embedded Design-to-Delivery Correspondence
 
-Existing spaces and actions form implementation interfaces at the planning level, using the current area, public-space, program, infrastructure and C0–C6 vocabulary. `Delivery Lead` and `Funding Mode` describe responsibility and resource interfaces for later implementation research; they do not predefine formal partners, contracts or engineering commitments.
+agent.6 uses Developer Commons as an annual operating entry point and organizes registration, controlled testing, evidence review, community/enterprise services and rule updates as a traceable conversion chain. Developer Commons is a conceptual public-space operating interface; it does not predefine a formal operating organization, partnership agreement or funding arrangement. All parties, funding and partnerships remain marked proposed / to be confirmed.
 
-|Existing space / action|Scale|Phase|Delivery Lead (planning interface)|Funding Mode (conceptual path)|Service Level|Acceptance Evidence|
-|---|---|---|---|---|---|---|
-|Jing-Zhang public spine and public-space micro-nodes|Overall urban design / public space|NOW|Urban-design and public-space operations coordination|Public-space improvement and operations study|C0–C2 Research / Simulation / Rule Check|Active-mobility continuity, accessibility, service paths and public feedback records|
-|Developer Commons / Zhongzhiyuan test environment|Key area / urban testing|NEXT|Test-environment and space-operations coordination|Open testing and professional-services combination|C3 Controlled Test|Interface compatibility, operating conditions, human intervention and test evidence|
-|AI Origin public service|Key area / everyday services|NEXT|Public-service and neighborhood-space coordination|Public-service and space-operations study|C4 Limited Real-load Service|Service accessibility, four paths, resident feedback and continuity evidence|
-|Dazhongsi renewal|Key area / existing-city renewal|NEXT → CONDITION-BASED|Renewal-unit and project-delivery coordination|Phased renewal and public-function insertion study|C0–C2 → C5 Human-supervised Operational Service|Assessment, unit planning, specialist review, participation and rule versions|
-|JZ Commissioning Week / Open Urban AI Plugfest|Public-space operation / program|NOW → NEXT|Program and public-space operations coordination|Program operations and open-testing combination|C0–C3 Research to Controlled Test|Program records, interoperability reports, public feedback and version updates|
-|Compute / Power / Water and Civic AI Overlay|City system / infrastructure adaptation|NEXT → CONDITION-BASED|Infrastructure and planning-interface coordination|Specialist study and condition-based development research|C0–C2 → C4/C5|Task–resource–space matching, condition list and re-test records|
+**Seven-step operating chain |** Application → Eligibility Check → Controlled Test → Evidence Review → Community / Enterprise Service → Rule Update → Scale / Hold / Exit.
+
+**Annual operating rhythm (conceptual) |** Annual topic release and application → eligibility check → controlled testing and Open Urban AI Plugfest → community/enterprise service conversion and everyday use → evidence review and Civic Audit Open Day → Rulebook Release. Entry into controlled testing requires the use case, spatial scope, data category, responsible human, resource conditions, public-service paths and test plan; incomplete entry conditions remain in Hold. After testing, evidence completeness, service continuity, public feedback, issue-closure rate and re-test triggers guide conversion to community/enterprise service; mature and reproducible conditions enter Scale, conditions requiring continued observation remain in Hold, and re-test or exit triggers enter Exit.
+
+**Verifiable KPIs (proposed / to be confirmed) |** Each year records the registration and screening list, number of C3 tests, C3→C4/C5 conversion records, evidence-package completeness, coverage of human/offline/low-sensing paths, public feedback and response records, issue closure and re-test records, Rulebook version updates and exit records. These indicators support operational acceptance and evidence handover; target values, responsible parties and data permissions enter the next-stage implementation study.
+
+Existing spaces and actions form implementation interfaces at the planning level, using the current area, public-space, program, infrastructure and C0–C6 vocabulary. `Delivery Lead`, `Decision Owner`, `Start Condition`, `No-Go / Hold`, `Acceptance Evidence` and `Handover Evidence` jointly describe responsibility, initiation, acceptance and handover interfaces for later implementation research; they do not predefine formal partners, contracts or engineering commitments.
+
+|Existing space / action|Scale|Phase|Delivery Lead (planning interface)|Funding Mode (conceptual path)|Service Level|Decision Owner|Start Condition|No-Go / Hold|Acceptance Evidence|Handover Evidence|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Jing-Zhang public spine and public-space micro-nodes|Overall urban design / public space|NOW|Urban-design and public-space operations coordination (proposed)|Public-space improvement and operations study (proposed)|C0–C2 Research / Simulation / Rule Check|Public-space operating party (to be confirmed)|Existing-condition review, node list, accessibility and maintenance paths confirmed|Hold when responsible party, maintenance path or basic-service continuity remains unconfirmed|Active-mobility continuity, accessibility, four service paths and public feedback records|Node register, operating responsibility, version and issue list|
+|Developer Commons / Zhongzhiyuan test environment|Key area / urban testing|NEXT|Test-environment and space-operations coordination (proposed)|Open testing and professional-services combination (proposed)|C3 Controlled Test|Test-environment operating party (to be confirmed)|Annual topic, registration rules, space/resource conditions, responsible human and test plan ready|Hold when data/rights, privacy, public safety or human-intervention conditions are incomplete|Registration and screening records, interface compatibility, operating conditions, human intervention and test evidence|Test report, open issues, re-test trigger and service-responsibility handover|
+|AI Origin public service|Key area / everyday services|NEXT|Public-service and neighborhood-space coordination (proposed)|Public-service and space-operations study (proposed)|C4 Limited Real-load Service|Community-service operating party (to be confirmed)|Basic-service baseline, accessibility, human/offline paths and resident-feedback mechanism confirmed|Hold when basic paths, public notice or feedback mechanism is incomplete|Service accessibility, four paths, resident feedback and continuity evidence|Service catalogue, human handoff, offline path, issue register and version record|
+|Dazhongsi renewal|Key area / existing-city renewal|NEXT → CONDITION-BASED|Renewal-unit and project-delivery coordination (proposed)|Phased renewal and public-function insertion study (proposed)|C0–C2 → C5 Human-supervised Operational Service|Renewal-unit and project-delivery party (to be confirmed)|Assessment, resource identification, ownership/heritage/engineering conditions and public-participation path enter review|Hold when ownership, heritage, public-interest or specialist conditions lack evidence|Assessment, unit planning, specialist review, participation and rule versions|Project list, specialist review notes, rule version, next responsibility and maintenance trigger|
+|JZ Commissioning Week / Open Urban AI Plugfest|Public-space operation / program|NOW → NEXT|Program and public-space operations coordination (proposed)|Program operations and open-testing combination (proposed)|C0–C3 Research to Controlled Test|Annual program operating party (to be confirmed)|Topic, venue capacity, service paths, human staffing and safety plan confirmed|Hold when venue, service, safety or rights conditions are incomplete|Registration, event, interoperability, public feedback and version-update records|Event review, issue closure, re-test plan and next-year topic input|
+|Compute / Power / Water and Civic AI Overlay|City system / infrastructure adaptation|NEXT → CONDITION-BASED|Infrastructure and planning-interface coordination (proposed)|Specialist study and condition-based development research (proposed)|C0–C2 → C4/C5|Infrastructure and planning-interface party (to be confirmed)|Task–resource–space checklist and communications, energy, water and operations interfaces reviewed|Hold when capacity, heat rejection, water, communications or operating responsibility lacks evidence|Task–resource–space matching, condition list and re-test records|Interface list, engineering boundary, resource responsibility, operating version and re-test trigger|
 
 Service levels retain the existing C0–C6 vocabulary: C0–C2 = Research / Simulation / Rule Check; C3 = Controlled Test; C4 = Limited Real-load Service; C5 = Human-supervised Operational Service; C6 = Re-certified / Reduced / Exit. The table uses existing spaces, phases and validation terms without adding project IDs or a new management system.
 
@@ -581,8 +613,8 @@ This index reduces reviewer search cost by linking review focuses directly to ex
 
 Core numbers currently reviewable from the announcement, submitted geometry or structured records are:
 
-- **43.6 km²** coordinated research area;
-- **about 11.4 km²**, recalculating to about 11.41 km² in the current geometry, overall design area; [metric:site_area_sqm]
+- **43.6 km²** textual coordinated research area from the official announcement, expressed as a city-system research scale with no corresponding official polygon;
+- **about 11.4 km²** overall design-model area, recalculating to about 11.41 km² from the `provisional_rough` polygon in `geometry/site_boundary.geojson`; [metric:site_area_sqm]
 - **about 368.4 ha** across three key areas; [metric:key_area_count]
 - **about 17.6%** design-model green ratio; [metric:green_ratio]
 - **about 6.7%** design-model public-space ratio; [metric:public_space_ratio]
@@ -596,15 +628,17 @@ Green space, public space, building footprints and public nodes are outputs of t
 
 Structured evidence is distributed across `geometry/site_boundary.geojson`, `key_areas.geojson`, `land_use.geojson`, `buildings.geojson`, `roads.geojson`, `green_space.geojson`, `public_space.geojson`, `constraints.geojson` and `phasing.geojson`, supported by `metrics.json`, `risk.json`, `simulation.json`, three matrices and bilingual drawings.
 
-![Metrics, Civic AI Overlay rules and evidence chain](assets/figures/metrics-evidence.en.png)
+![Metrics, six Civic AI Overlay planning controls and evidence chain](assets/figures/metrics-evidence.en.png)
+
+Board 05 has been updated in bilingual versions and now consistently presents **six planning controls** (spatial access, service range, resource capacity, operating conditions, responsible party and dynamic maintenance), aligned with this section, `metrics.json` and the structured Civic AI Overlay rules. Asset source, input/base-map record, processing and public-submission-rights status are recorded in `report/copyright_statement.md` and `sources.json` under `visual_asset_provenance`. [source:VISUAL-ASSET-PROVENANCE]
 
 ### 13.3 Technical boundaries and next-stage interfaces
 
-1. **Conceptual-design boundary to statutory-boundary coordination.** `provisional_rough` serves open-call conceptual design, area recalculation and spatial consistency; official polygons, statutory controls, ownership, heritage and engineering information trigger coordinated review of areas, ratios, parcels and interfaces. [depth:risk_missing_data]
+1. **Research scale, conceptual-design boundary and statutory-boundary coordination.** The 43.6 km² figure carries the announcement's research scale; the `provisional_rough` polygon in `geometry/site_boundary.geojson` supports open-call conceptual design, area recalculation and spatial consistency, currently recalculating to about 11.41 km². Official polygons, statutory controls, ownership, heritage and engineering information trigger coordinated review of areas, ratios, parcels and interfaces. [depth:risk_missing_data]
 2. **Missing parameters remain `unknown / to verify`.** FAR, height, density, population capacity, road redlines, heritage lines, municipal capacity, airspace management, MW, MVA, water volume, pipe diameter, equipment spacing, test duration, investment and return are carried into next-stage planning, ownership, heritage and engineering checks.
 3. **Urban base and AI layer coordinate.** AI nodes provide prediction, simulation, scheduling and explanation; roads, power, water, drainage, fire safety, communications, railway and emergency systems remain organized through ordinary engineering and operating responsibility. The AI layer keeps clear interfaces with the urban base, while basic public services retain human, offline and low/no-sensing paths.
 4. **Participation and professional procedures.** AI supports evidence organization, rule search, option comparison and version maintenance; judgments concerning public rights, land, demolition, compensation and statutory planning proceed through real public participation, professional review and authorized procedures.
-5. **Operational safety and copyright.** AI capabilities use pause, isolation, degradation, rollback and exit; the supplemental architecture visuals express concept atmosphere and building–public-space relationships. The contributor should confirm public-submission rights; the public repository contains no uncleared internal base maps, non-public metrics, personal information or restricted engineering material. [standard:GENERATIVE-AI-INTERIM-MEASURES]
+5. **Operational safety and copyright.** AI capabilities use pause, isolation, degradation, rollback and exit; the cover, land-use board, architecture visuals and regional-coordination boards are labeled as AI/digitally generated conceptual illustrations or representative scenario imagery. Per-asset source, generation tool/model, input material, processing and public-submission-rights status are registered in `report/copyright_statement.md` and `sources.json`; the participant has confirmed public-submission rights for the delivered asset set in the stated PR, Gallery, Proposal Page and A3/A0 PDF scope. Tool/model, base-map and third-party-material details not supplied with the original attachments remain recorded as not bundled and are not expanded into additional factual claims. The public repository contains no known uncleared internal base maps, non-public metrics, personal information or restricted engineering material. [standard:GENERATIVE-AI-INTERIM-MEASURES]
 6. **Regional-coordination fact boundary.** The regional innovation interfaces are planning-level capability interfaces and potential coordination paths. They do not establish named partnerships, funding arrangements, data-exchange agreements or government implementation arrangements; once participating parties confirm involvement, responsibility, data boundaries, service levels and exit mechanisms can be developed in the next stage.
 
 ### 13.4 References
