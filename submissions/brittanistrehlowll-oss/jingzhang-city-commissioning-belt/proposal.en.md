@@ -132,6 +132,42 @@ Renewal follows a diagnosis → deliberation → strategy → action → commiss
 
 A **City Commissioning Pod** is retained as a modular spatial prototype that may combine edge inference, a power interface, visible sensing notice, human-help access and a physical disable function where needed. Its number, spacing, device power and construction are intentionally unspecified until real engineering conditions are known.
 
+## Architecture and Spatial-Experience Layer | Supplemental Concept Visuals
+
+This section is an addition to the existing five core planning-evidence figures. It does not replace or rewrite those figures, the GeoJSON layers, metric matrices, drawings or any existing project requirement. The three scheme boards focus on building prototypes, civic interfaces, materials, structural intent and spatial experience; statutory boundaries, areas, mobility, development intensity and engineering parameters remain governed by the structured evidence and formal review.
+
+### Scheme 1 | Building Prototypes and Public Spine
+
+![Scheme 1: open white framework, red-brick urban frame, public bridge and three commissioning pods](assets/media/architecture-overview.webp)
+
+This scheme organizes the buildings on both sides of the Jing-Zhang public spine as two complementary urban prototypes. The white open framework uses a regular volume, an active transparent ground floor and horizontal windows to express open testing, collaboration and adaptable workspaces. The red-brick urban frame uses a heavier material presence, deep windows and vertical elements to carry urban memory, longevity and public institutions. A public bridge crosses between them as a continuous civic interface, while three colour-coded nodes suggest the transition from “technically usable” to “publicly usable” to “rule usable.”
+
+The board also shows the relationship between elevation, section, plan, axonometric view, material interface and the circular commissioning pods. Building locations, storeys, spans and node dimensions are conceptual expressions, not statutory controls or construction drawings.
+
+### Scheme 2 | Three Nodes, Structure and Material Expression
+
+![Scheme 2: three-node master plan, urban section, structural concept, bridge detail and material atmosphere](assets/media/architecture-technical-board.webp)
+
+This scheme explains how space carries the Civic AI Overlay through a sequence of master plan, urban section, function diagram, structural concept, bridge detail, materials and day/night atmosphere. The yellow node leans toward technical testing and replaceable interfaces; the blue node toward public services, explanation and human transfer; and the red node toward public rules, version status and re-testing. They are iterative City Commissioning Pods, not three large principal buildings.
+
+White stone or light precast concrete transitions toward the brick interface, defining the bridge as a **Civic Handover Bridge**: technical space passes through a public-service interface before entering the city’s rule space. The structure and material panels explain design intent only; they do not conclude structural safety, construction details, durability or engineering feasibility.
+
+### Scheme 3 | Spatial Sequence and Civic Interfaces
+
+![Scheme 3: Jing-Zhang public spine, three key areas, day/night scenes and spatial sequence](assets/media/architecture-spatial-sequence.webp)
+
+This scheme makes the three key areas a continuous spatial experience. Zhongzhiyuan provides reproducible technical testing and replaceable equipment interfaces; AI Origin provides public services, explanation and human assistance for residents; Dazhongsi provides public evidence, rule re-testing and a renewal-deliberation interface. The axis, plazas, active ground floors, bridge and commissioning pods form a walkable public spine. Day and night views express differences in atmosphere and operating periods, not lighting, visitor or operating-capacity commitments.
+
+Buildings, railway space, planting and people together tell a continuous story from technical interface to everyday public life and then to institutionalized renewal. This layer supplements spatial experience and the building–city relationship; it does not replace the five core evidence figures or change the current `provisional_rough` geometry and formal metric definitions.
+
+### Architectural Design Notes and Control Boundaries
+
+1. **A building must first be a normal city building, and only then carry AI capability.** Basic circulation, public halls, accessibility, fire egress and human service should remain available when models are upgraded, networks fail or residents choose not to use AI.
+2. **AI should be a maintainable overlay.** Sensing, compute, power and interaction interfaces belong in replaceable interface spaces, service bands and commissioning pods, separating the life of the AI layer from the structural life of the building. Pods remain small infrastructure and civic-node elements.
+3. **The bridge is a civic handover interface.** Later design must verify real floor connections, accessible routes, structural support, clear height, fire safety and railway/road conditions; the current visuals do not prove that these engineering conditions are satisfied.
+4. **Scale is an intentional design cue only.** The visual language uses mainly 3–6-storey mid-rise public buildings so that the railway public spine remains primary. Actual height, area, setbacks, spans, ownership, heritage controls and structural conditions remain subject to formal evidence.
+5. **Visual design does not remove public-interest paths.** Every civic node must retain equivalent AI, human, offline and low/no-sensing paths, together with pause, degradation, rollback and exit mechanisms.
+
 ## Detailed Design of Key Areas
 
 ![Three key areas: validation, living load and renewal rules](assets/figures/key-areas.en.png)

@@ -30,6 +30,10 @@
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/figures/mobility-bluegreen.png",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/figures/site-overview.en.png",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/figures/site-overview.png",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/architecture-overview.webp",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/architecture-spatial-sequence.webp",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/architecture-technical-board.webp",
+        "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assets/media/cover.webp",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/assumptions.json",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/changelog.md",
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt/compliance_matrix.json",
@@ -66,7 +70,7 @@
       "ai_package_stages": {
         "submissions/brittanistrehlowll-oss/jingzhang-city-commissioning-belt": "formal"
       },
-      "total_bytes": 24218296,
+      "total_bytes": 25826753,
       "maintainer_bypass": false
     },
     "stderr": ""

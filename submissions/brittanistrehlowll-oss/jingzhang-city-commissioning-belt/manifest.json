@@ -15,7 +15,7 @@
     "model_detail": "OpenAI GPT-5.6 Sol with user-provided planning research and public repository constraints"
   },
   "generated_at": "2026-08-31T11:15:00Z",
-  "cover_image": "",
+  "cover_image": "assets/media/cover.webp",
   "files": [
     {
       "path": "manifest.json",
@@ -26,14 +26,14 @@
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
-      "sha256": "75561e603b5bf14fab16c6445abdb0b9242ebbe42c4ad0a4b4a4729644d475e2",
+      "sha256": "ebf31d704b62b7dddcfcacb092aeab2037b35e33a83a042d0b6330a35a924ee6",
       "language": "zh"
     },
     {
       "path": "proposal.en.md",
       "role": "narrative",
       "required": true,
-      "sha256": "28e721a12147ed7239f5ec1cf5aa40105b67b8ab463af0a392b495527d56fe94",
+      "sha256": "0380e83e21b8ccef0af99f85185fa8e3298e33928f0bfbec7a92f7df6c26477a",
       "language": "en",
       "translation_of": "proposal.md"
     },
@@ -65,7 +65,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "d302b147f7774e14a346f45e4d2bddebf22139e228b38a02aaba3a64d0ab0c01"
+      "sha256": "5673b8a7f915b3dc94299d2d39b84b48e5f6dece6596c1a35a9601fbb7976771"
     },
     {
       "path": "compliance_matrix.json",
@@ -89,14 +89,14 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "b9f6ab55625425e3a204893f0f99786ab9315e5165825f08df0db333632a858b",
+      "sha256": "f580fba2f1e6b85ae4960517b3474f4c7531644b54a6020cc3b25e5458a2cccd",
       "language": "zh"
     },
     {
       "path": "report/proposal.en.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "402e2d67aaf01f3a317efd3c6fa56fdbba451b0b086aa5f189807d6cbf4af8c3",
+      "sha256": "ae2829bfded7736e520fef776183b21fea835c37e11e3ed3306a88d8fe423547",
       "language": "en",
       "translation_of": "report/proposal.html"
     },
@@ -111,7 +111,7 @@
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "c77bfb49481628f8090c0056b0b3c784af1a114e266a05333b3894934d0ab33e",
+      "sha256": "479053746dac8a7cdeeb10d358ed79026b6f89fd2aa93f1713cd11402fe23cf1",
       "language": "zh"
     },
     {
@@ -148,16 +148,60 @@
       "path": "visual/index.html",
       "role": "visualization",
       "required": true,
-      "sha256": "1851b5a1d9abe866406707cfeff5c5cb78e4def6ec16fc16225a70102bc8ad3e",
+      "sha256": "94269a3ed6dd65a0ec8694fb068ec26b8cc35a9243712f84614d786463f70e72",
       "language": "zh"
     },
     {
       "path": "visual/index.en.html",
       "role": "visualization",
       "required": true,
-      "sha256": "c808396c0c6eee137fe1f5d5a7104760d010d85139d8ac92e9a38a210053436c",
+      "sha256": "02c4a9e25114ca4116e17317ad671cc03d7e49fa26a59ce960e48fcddf791839",
       "language": "en",
       "translation_of": "visual/index.html"
+    },
+    {
+      "path": "assets/media/cover.webp",
+      "role": "media_poster",
+      "required": true,
+      "language": "neutral",
+      "sha256": "b014b4dbf3dd77d73fd19caa7289d4ce9dec14e4bfeea131638a5d00e56440d7",
+      "title_zh": "封面｜京张公共脊与三色联调节点",
+      "title_en": "Cover | Jing-Zhang Public Spine and Three Commissioning Nodes",
+      "description_zh": "城市轴线、公共脊、两侧建筑母体与三个联调节点的概念鸟瞰。",
+      "description_en": "Conceptual aerial view of the urban axis, public spine, paired building prototypes and three commissioning nodes."
+    },
+    {
+      "path": "assets/media/architecture-overview.webp",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "sha256": "3d08c670ce54ebeed0e763dba26504f837077e1ad45a691101db5da81ffe7f41",
+      "title_zh": "方案一｜建筑母体与公共脊",
+      "title_en": "Scheme 1 | Building Prototypes and Public Spine",
+      "description_zh": "以白色开放建筑、红砖城市建筑、跨线公共连廊和三色联调舱表达建筑系统总逻辑。",
+      "description_en": "The building system is expressed through an open white framework, a red-brick urban frame, a public bridge and three colour-coded commissioning pods."
+    },
+    {
+      "path": "assets/media/architecture-technical-board.webp",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "sha256": "6a68bbfe60f76347bb8708f6548f68c4cd11ba88c7c594616408f897017c3028",
+      "title_zh": "方案二｜三节点与结构表达",
+      "title_en": "Scheme 2 | Three Nodes and Structural Expression",
+      "description_zh": "以总图、城市剖面、功能图解、结构概念、连廊细部、材料和夜景组织建筑—公共空间的设计说明。",
+      "description_en": "A design board linking master plan, urban section, function diagram, structural concept, bridge detail, materials and night atmosphere."
+    },
+    {
+      "path": "assets/media/architecture-spatial-sequence.webp",
+      "role": "media_poster",
+      "required": false,
+      "language": "neutral",
+      "sha256": "9c127728ed183ffc065e1cacbd4fce80e5beb3eb28aaf51b1c5c0e8da325ed7f",
+      "title_zh": "方案三｜空间序列与公共界面",
+      "title_en": "Scheme 3 | Spatial Sequence and Civic Interfaces",
+      "description_zh": "以众智园、AI原点和大钟寺三处节点，以及白昼、夜景、连廊和圆形联调舱的连续体验组织空间序列。",
+      "description_en": "A spatial sequence across Zhongzhiyuan, AI Origin and Dazhongsi, with day, night, bridge and commissioning-pod experiences."
     },
     {
       "path": "assets/figures/site-overview.png",
@@ -304,7 +348,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "e6d538db9b2232441a4eeb2aef166ce24dc96582bcaff989c02377eea5f3940b",
+      "sha256": "e9ee43ed141cc6d1935a67e8cbecfcb08ab4c45962708d8ba4782e9e59d3b439",
       "language": "zh"
     }
   ],
