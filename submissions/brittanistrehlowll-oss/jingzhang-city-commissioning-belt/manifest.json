@@ -26,14 +26,14 @@
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
-      "sha256": "86046f8448cf1ed00c901bb5bec48fc05c22351b98dd17df16302d9ba3a58613",
+      "sha256": "7ff3d91ea7cc3cae88ba52eed4a80e9fb75e37d9899202ec57fcf8a3e2b545a5",
       "language": "zh"
     },
     {
       "path": "proposal.en.md",
       "role": "narrative",
       "required": true,
-      "sha256": "8b0de76d02ea1999d56d5cd89b20da1e5aa197c79008f9bda7abbd1949484886",
+      "sha256": "ac2a5e70e649d373ca2acfdca86b3e977f82715407647e6859b72d22cf869d0c",
       "language": "en",
       "translation_of": "proposal.md"
     },
@@ -59,13 +59,13 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "2fb1b8a21ab2306e97dc6d4f34a42948940d53192776675217fdab0081c86ed6"
+      "sha256": "95c93b161b3e195c36f0ca27318ae1bb0f11d04228e8832ae67793d136fc5872"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "6ce07aff2d4f1857cd1724b07cdb3fc7b702fa36622840ed64dbe5ef72c35cdc"
+      "sha256": "9fa45ce1a95022adaf99ae34657b567cb9c3ee2e2d348126a6a1f669ed09b86c"
     },
     {
       "path": "compliance_matrix.json",
@@ -89,14 +89,14 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "15eecd00eea4d32564afe0710b5a6e2a7183e62681a81436250e99491a95f0d8",
+      "sha256": "f9d7e5e0be84f6b4708567811633906330b0901780df9e5954edeae3212b3286",
       "language": "zh"
     },
     {
       "path": "report/proposal.en.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "9a7b48fd6363f542294a75a713ae735c53c74c47ce7aa327dd092182c24495c3",
+      "sha256": "923bbc4b50aadf547dc8bd199623701ecb1247006fe18e393a7290f9515ff4d8",
       "language": "en",
       "translation_of": "report/proposal.html"
     },
@@ -111,7 +111,7 @@
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "6894d618058082d0beb1f96aa484fdc819aa3a4c99b9609913485150b480c575",
+      "sha256": "adf371cd8857d1cbdca8e6bd5ac422052caf16693b72ced0a84e45163f2a64d9",
       "language": "zh"
     },
     {
@@ -399,7 +399,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "e16f9765cc375d348ba08cd931fdef1fc3e8c49ed39009954c192f1416fbfebe",
+      "sha256": "c7027bb5d5377b2cd22c1fcd79bec97316ab63505ff631e5816b72ce17bb73aa",
       "language": "zh"
     }
   ],

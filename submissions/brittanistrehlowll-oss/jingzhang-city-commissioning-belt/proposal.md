@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "京张·城市联调带以京张铁路遗产构成公共空间骨架，以众智园、AI原点社区和大钟寺形成技术验证—公共应用—规划转化的城市创新链；以 Civic AI Overlay、Compute / Power / Water 与 C0–C6 共同支撑从城市愿景到可验证实施的规划设计。"
 tracks: ["civic-agent-governance", "enterprise-services-ecosystem", "ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability", "ai-health-service-navigation", "robot-delivery-low-speed", "ai-cultural-guide", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v0.12-formal"
+iteration: "v0.13-formal"
 ---
 
 # 京张·城市联调带
@@ -642,7 +642,7 @@ agent.6 以 Developer Commons 为年度运营入口，把活动报名、受控�
 2. **缺失参数保持 `unknown / to verify`。** FAR、建筑高度、密度、人口承载、道路红线、文保控制线、市政容量、低空管理、MW、MVA、水量、管径、设备间距、测试天数、投资额和收益率等，进入下一阶段的控规、权属、文保和工程专项校核。
 3. **城市基础与AI增强层协同。** AI节点可提供预测、推演、调度和解释能力；道路、电网、水务、排水、消防、通信、铁路和应急系统继续按常规工程与运营责任组织。AI增强层与常规城市基底保持清晰接口，基础公共服务持续提供人工、离线和低 / 无感知路径。
 4. **公共参与与专业程序。** AI可以辅助证据整理、规则查询、情景比选和版本维护；涉及公共权利、土地、拆改、补偿和法定规划的判断，由真实公众参与、专业审查和有权主体程序完成。
-5. **运行安全与版权。** AI能力采用可暂停、可隔离、可降级、可回滚和可退出的运行设计；封面、土地利用图、建筑视觉和区域协同图均按“AI/数字生成的概念示意，非现状实景、非批准方案”或“典型场景示意”就地标识。逐图来源、生成工具/模型、输入素材、转换过程和公开提交权利状态登记在 `report/copyright_statement.md` 与 `sources.json`；投稿人已确认本组交付资产具有本次 PR、Gallery、Proposal Page 和 A3/A0 PDF 所需的公开提交权。原始附件未提供的工具/模型、底图和第三方素材具体凭证仍按未随包记录处理，不扩展为额外事实声明；公共仓库不包含已知未清权的内部底图、非公开指标、个人信息或受限工程资料。 [standard:GENERATIVE-AI-INTERIM-MEASURES]
+5. **运行安全与版权。** AI能力采用可暂停、可隔离、可降级、可回滚和可退出的运行设计；封面、土地利用图、建筑视觉和区域协同图均按“AI/数字生成的概念示意，非现状实景、非批准方案”或“典型场景示意”就地标识。逐图来源、生成工具/模型、输入素材、转换过程和公开提交权利状态登记在 `report/copyright_statement.md` 与 `sources.json`；投稿人已确认 VIS-001–VIS-018 具有用于本次 competition submission、GitHub PR、Gallery、Proposal Page 和 A3/A0 PDF 的公开提交权。历史工具/模型、版本、日期、完整提示词和第三方凭证未保留，属于生产元数据缺失；各资产的底图与个人数据状态已在 provenance 台账中明确，视觉图像不作为现状或法定事实证据。公共仓库不包含已知未清权的内部底图、非公开指标、个人信息或受限工程资料。 [standard:GENERATIVE-AI-INTERIM-MEASURES]
 6. **区域协同的事实边界。** 区域创新协同接口属于规划层面的能力接口和潜在协同路径，不据此推定已经建立具名合作、资金安排、数据交换协议或政府实施安排；相关主体确认参与后，再进入责任、数据边界、服务水平和退出机制深化。
 
 ### 13.4 参考资料
